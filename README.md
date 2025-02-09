@@ -17,6 +17,9 @@ size_categories:
 ## Overview
 This dataset contains structured information extracted from the Indian Government's **MyScheme** website ([myscheme.gov.in](https://www.myscheme.gov.in)). The data is collected from the sitemap and processed for accessibility, research, and analytical purposes.
 
+## Data Type
+723 PDF with Text inside each PDF (copyable) most of the schemes are here.
+
 ## Data Source
 - Official Website: [MyScheme](https://www.myscheme.gov.in)
 - Sitemap URL: [Sitemap](https://www.myscheme.gov.in/sitemap.xml)
