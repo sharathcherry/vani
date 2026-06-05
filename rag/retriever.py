@@ -67,13 +67,14 @@ class Retriever:
 
     def __init__(self) -> None:
         if not AZURE_SEARCH_ENDPOINT or not AZURE_SEARCH_API_KEY:
-            raise ValueError("AZURE_SEARCH_ENDPOINT and AZURE_SEARCH_API_KEY must be set.")
-        
-        self._client = SearchClient(
-            endpoint=AZURE_SEARCH_ENDPOINT,
-            index_name=AZURE_SEARCH_INDEX,
-            credential=AzureKeyCredential(AZURE_SEARCH_API_KEY),
-        )
+            print("WARNING: AZURE_SEARCH_ENDPOINT or AZURE_SEARCH_API_KEY is not set. Retrieval will fail.")
+            self._client = None
+        else:
+            self._client = SearchClient(
+                endpoint=AZURE_SEARCH_ENDPOINT,
+                index_name=AZURE_SEARCH_INDEX,
+                credential=AzureKeyCredential(AZURE_SEARCH_API_KEY),
+            )
         self._parent_docs = _load_parent_docs()
 
     def retrieve(
