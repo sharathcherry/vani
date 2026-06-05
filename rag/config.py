@@ -14,7 +14,7 @@ INDEX_DIR.mkdir(exist_ok=True)
 # Local: sentence-transformers downloads the model automatically.
 # AWS:   set SAGEMAKER_EMBED_ENDPOINT and optionally USE_SAGEMAKER=true.
 EMBED_MODEL = os.getenv("EMBED_MODEL", "BAAI/bge-m3")   # multilingual; great for Indian schemes
-EMBED_DIM = 1024
+EMBED_DIM = int(os.getenv("EMBED_DIM", "384" if "small" in EMBED_MODEL else "1024"))
 EMBED_BATCH_SIZE = int(os.getenv("EMBED_BATCH_SIZE", "64"))
 EMBED_MAX_LENGTH = 512
 

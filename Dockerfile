@@ -13,6 +13,9 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
+# Pre-download models to bake into the image
+RUN python -c "from sentence_transformers import SentenceTransformer, CrossEncoder; print('Loading Embedder...'); SentenceTransformer('BAAI/bge-small-en-v1.5'); print('Loading Reranker...'); CrossEncoder('cross-encoder/ms-marco-MiniLM-L-6-v2'); print('Models loaded.')"
+
 # Copy application files
 COPY . .
 

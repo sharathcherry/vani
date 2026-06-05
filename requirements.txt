@@ -53,3 +53,4 @@ openai>=1.0
 
 azure-storage-blob>=12.19.0
 azure-cognitiveservices-speech>=1.37.0
+sentence-transformers>=3.0.0

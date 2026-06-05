@@ -71,9 +71,8 @@ def translate_text(text: str, source_lang_code: str, target_lang_code: str) -> s
         # LLMClient already uses LLM_PROVIDER=azure and correctly loads AZURE_OPENAI_ endpoints
         llm = LLMClient()
         translated = llm.complete(
-            system_prompt="You are a professional language translator. Only return the translated text.",
-            user_prompt=prompt,
-            temperature=0.0
+            system="You are a professional language translator. Only return the translated text.",
+            user=prompt
         ).strip()
         
         print(f"[translate] {src} -> {tgt}: '{translated[:80]}'")
