@@ -21,7 +21,7 @@ from config import blob_service_client, CONTAINER_VOICE_INPUT, CONTAINER_SESSION
 from stt import azure_stt, download_twilio_audio, detect_lang_from_script
 from tts import synthesize_speech
 from translation import translate_text
-from rag import get_rag_answer, has_scheme_intent, extract_urls, strip_urls
+from rag_logic import get_rag_answer, has_scheme_intent, extract_urls, strip_urls
 from session import get_session_context, save_session_context
 from twilio_utils import send_whatsapp
 from greetings import _LANG_MENU, _LANG_SELECTION, _LANG_CONFIRM
