@@ -114,11 +114,11 @@ STATE_MAP: dict[str, str] = {
 
 # ── Beneficiary keyword detector ──────────────────────────────────────────────
 _BENEFICIARY_PATTERNS: list[tuple[str, list[str]]] = [
-    ("for_farmers",  ["farmer", "kisan", "agricultur", "farming", "crop"]),
-    ("for_women",    ["women", "woman", "female", "girl", "mahila", "widow"]),
-    ("for_disabled", ["disab", "handicap", "divyang", "differently abled", "specially abled"]),
-    ("for_sc_st",    ["scheduled caste", "scheduled tribe", "dalit", "tribal", "adivasi", r"\bsc\b", r"\bst\b"]),
-    ("for_students", ["student", "scholarship", "school", "college", "universit", "educat"]),
+    ("is_for_farmers",  ["farmer", "kisan", "agricultur", "farming", "crop"]),
+    ("is_for_women",    ["women", "woman", "female", "girl", "mahila", "widow"]),
+    ("is_for_disabled", ["disab", "handicap", "divyang", "differently abled", "specially abled"]),
+    ("is_for_sc_st",    ["scheduled caste", "scheduled tribe", "dalit", "tribal", "adivasi", r"\bsc\b", r"\bst\b"]),
+    ("is_for_students", ["student", "scholarship", "school", "college", "universit", "educat"]),
 ]
 
 

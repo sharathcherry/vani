@@ -1,6 +1,6 @@
-"""Hybrid retriever backed by Qdrant.
+"""Hybrid retriever backed by Azure AI Search.
 
-Queries the `schemes_hybrid` collection using QdrantClient.
+Queries the `AZURE_SEARCH_INDEX` collection using azure-search-documents.
 """
 from __future__ import annotations
 
@@ -11,18 +11,23 @@ from pathlib import Path
 from typing import Iterable
 
 import numpy as np
-from qdrant_client import QdrantClient
-from qdrant_client.http import models
+
+from azure.core.credentials import AzureKeyCredential
+from azure.search.documents import SearchClient
+from azure.search.documents.models import VectorizedQuery, QueryType
 
 from rag.config import (
     INDEX_DIR,
     MAX_CHUNKS_PER_SCHEME,
     RERANK_TOP_K,
     CHUNK_TYPE_BOOST,
-    QDRANT_URL,
-    QDRANT_API_KEY,
-    QDRANT_COLLECTION,
-    QDRANT_LOCAL_PATH,
+    AZURE_SEARCH_ENDPOINT,
+    AZURE_SEARCH_API_KEY,
+    AZURE_SEARCH_INDEX,
+    AZURE_SEARCH_SEMANTIC_CONFIG,
+    AZURE_SEARCH_USE_SEMANTIC,
+    AZURE_SEARCH_VECTOR_K,
+    AZURE_SEARCH_TOP,
 )
 
 PARENT_DOCS_PATH = str(INDEX_DIR / "parent_docs.pkl")
@@ -58,14 +63,17 @@ class RetrievedChunk:
 
 
 class Retriever:
-    """Production-grade hybrid retriever backed by Qdrant."""
+    """Production-grade hybrid retriever backed by Azure AI Search."""
 
     def __init__(self) -> None:
-        if QDRANT_URL:
-            self._client = QdrantClient(url=QDRANT_URL, api_key=QDRANT_API_KEY)
-        else:
-            self._client = QdrantClient(path=QDRANT_LOCAL_PATH)
-            
+        if not AZURE_SEARCH_ENDPOINT or not AZURE_SEARCH_API_KEY:
+            raise ValueError("AZURE_SEARCH_ENDPOINT and AZURE_SEARCH_API_KEY must be set.")
+        
+        self._client = SearchClient(
+            endpoint=AZURE_SEARCH_ENDPOINT,
+            index_name=AZURE_SEARCH_INDEX,
+            credential=AzureKeyCredential(AZURE_SEARCH_API_KEY),
+        )
         self._parent_docs = _load_parent_docs()
 
     def retrieve(
@@ -75,31 +83,45 @@ class Retriever:
         metadata_filter: dict | None = None,
         top_k: int = RERANK_TOP_K,
     ) -> list[RetrievedChunk]:
-        """Single-query dense retrieval via Qdrant."""
+        """Single-query hybrid retrieval via Azure AI Search."""
         
         vector = query_vector.tolist() if isinstance(query_vector, np.ndarray) else query_vector
-        qdrant_filter = _build_qdrant_filter(metadata_filter)
+        odata_filter = _build_odata_filter(metadata_filter)
+
+        vector_query = VectorizedQuery(
+            vector=vector, 
+            k_nearest_neighbors=AZURE_SEARCH_VECTOR_K, 
+            fields="embedding"
+        )
+        
+        query_type = QueryType.SEMANTIC if AZURE_SEARCH_USE_SEMANTIC else QueryType.SIMPLE
 
         results = self._client.search(
-            collection_name=QDRANT_COLLECTION,
-            query_vector=vector,
-            query_filter=qdrant_filter,
-            limit=top_k * 2,
+            search_text=query_text,
+            vector_queries=[vector_query],
+            filter=odata_filter,
+            top=AZURE_SEARCH_TOP,
+            query_type=query_type,
+            semantic_configuration_name=AZURE_SEARCH_SEMANTIC_CONFIG if AZURE_SEARCH_USE_SEMANTIC else None,
         )
 
         chunks: list[RetrievedChunk] = []
         for hit in results:
-            payload = hit.payload or {}
+            payload = hit
             chunk_type = payload.get("chunk_type", "full") or "full"
             boost = CHUNK_TYPE_BOOST.get(chunk_type, 1.0)
             
+            # Azure Search provides @search.score for hybrid/semantic queries
+            # semantic queries might have @search.reranker_score 
+            score = hit.get("@search.reranker_score") or hit.get("@search.score", 1.0)
+            
             chunks.append(RetrievedChunk(
-                id          = str(hit.id),
+                id          = str(payload.get("id", "")),
                 scheme_id   = payload.get("scheme_id", ""),
                 scheme_name = payload.get("scheme_name", ""),
                 chunk_type  = chunk_type,
                 text        = payload.get("content", ""),
-                score       = hit.score * boost,
+                score       = score * boost,
                 payload     = payload,
             ))
 
@@ -131,30 +153,36 @@ class Retriever:
         return [_chunk_to_dict(c) for c in chunks]
 
 
-def _build_qdrant_filter(meta: dict | None) -> models.Filter | None:
+def _build_odata_filter(meta: dict | None) -> str | None:
     if not meta:
         return None
 
-    must = []
+    clauses = []
     if state := meta.get("state"):
-        must.append(models.FieldCondition(key="state_or_ut", match=models.MatchValue(value=state)))
+        # Azure Search string filter using eq
+        # escape single quotes just in case
+        state = state.replace("'", "''")
+        clauses.append(f"state_or_ut eq '{state}'")
+        
     if category := meta.get("category"):
-        must.append(models.FieldCondition(key="scheme_category", match=models.MatchValue(value=category)))
+        category = category.replace("'", "''")
+        clauses.append(f"scheme_category eq '{category}'")
     
     bool_keys = {
-        "for_women": "is_for_women",
-        "for_farmers": "is_for_farmers",
-        "for_disabled": "is_for_disabled",
-        "for_sc_st": "is_for_sc_st",
-        "for_students": "is_for_students",
+        "is_for_women": "is_for_women",
+        "is_for_farmers": "is_for_farmers",
+        "is_for_disabled": "is_for_disabled",
+        "is_for_sc_st": "is_for_sc_st",
+        "is_for_students": "is_for_students",
     }
     for meta_key, field_name in bool_keys.items():
         if meta.get(meta_key):
-            must.append(models.FieldCondition(key=field_name, match=models.MatchValue(value=True)))
+            clauses.append(f"{field_name} eq true")
 
-    if not must:
+    if not clauses:
         return None
-    return models.Filter(must=must)
+    
+    return " and ".join(clauses)
 
 
 def _deduplicate(chunks: list[RetrievedChunk], max_per_scheme: int) -> list[RetrievedChunk]:

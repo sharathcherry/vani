@@ -22,7 +22,7 @@ from stt import azure_stt, download_twilio_audio, detect_lang_from_script
 from tts import synthesize_speech
 from translation import translate_text
 from rag_logic import get_rag_answer, has_scheme_intent, extract_urls, strip_urls
-from session import get_session_context, save_session_context
+from session import get_session, update_session
 from twilio_utils import send_whatsapp
 from greetings import _LANG_MENU, _LANG_SELECTION, _LANG_CONFIRM
 
@@ -39,8 +39,10 @@ def _handle_voice_async(
     """Full voice processing pipeline running as a Background Task."""
     print(f"Starting voice pipeline for {phone_id}")
 
-    # 1. Load session (sync for simplicity in background task)
-    ctx, preferred_lang = get_session_context(phone_id)
+    # 2. Session / Context
+    session = get_session(phone_id)
+    ctx = "\n".join(f"{m['role']}: {m['content']}" for m in session.get("history", []))
+    preferred_lang = session.get("lang", "en-IN")
 
     # 2. Download audio
     try:
@@ -65,11 +67,9 @@ def _handle_voice_async(
         print(f"Failed to save raw audio: {e}")
 
     # 3. STT
-    native_query, lang_code, stt_err = azure_stt(
+    native_query, lang_code = azure_stt(
         audio_bytes, content_type, preferred_lang=preferred_lang
     )
-    if stt_err:
-        print(f"[STT Error] {stt_err}")
     print(f"[STT] lang={lang_code} text='{native_query[:80]}'")
 
     if not native_query:
@@ -105,8 +105,9 @@ def _handle_voice_async(
     english_answer = get_rag_answer(english_query)
     print(f"[RAG] answer='{english_answer[:80]}'")
 
-    # 7. Save session
-    save_session_context(phone_id, english_query, english_answer, lang_code)
+    # 7. Update Session Context
+    update_session(phone_id, "user", english_query, lang_code)
+    update_session(phone_id, "assistant", english_answer, lang_code)
 
     # 8. Translate English -> native
     native_answer = translate_text(
@@ -209,7 +210,8 @@ async def twilio_webhook(request: Request, background_tasks: BackgroundTasks):
     if links:
         reply += "\n\n🔗 Official link(s):\n" + "\n".join(links)
 
-    save_session_context(phone_id, english_query, english_ans, lang_code)
+    update_session(phone_id, "user", english_query, lang_code)
+    update_session(phone_id, "assistant", english_ans, lang_code)
     return _twiml_reply_text(reply)
 
 @app.get("/health")
