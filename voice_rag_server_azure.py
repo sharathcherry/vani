@@ -217,3 +217,7 @@ async def twilio_webhook(request: Request, background_tasks: BackgroundTasks):
 @app.get("/health")
 def health_check():
     return {"status": "ok"}
+
+@app.get("/")
+def root_probe():
+    return {"status": "ok", "message": "Gov Schemes Voice RAG is running"}
