@@ -1,0 +1,15 @@
+.env
+.venv
+__pycache__
+*.pyc
+rag_index/
+structured_schemes/
+wa-sessions/
+wa-cache/
+.github_upload/
+lambda_build/
+webhook_build/
+*.zip
+*.log
+*.pdf
+AzureCLI.msi
