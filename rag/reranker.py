@@ -21,12 +21,16 @@ class Reranker:
         self._local_model = None
         
         if not self.cohere_api_key:
-            from sentence_transformers import CrossEncoder
-            self._local_model = CrossEncoder(
-                RERANKER_MODEL,
-                max_length=512,
-                automodel_args={"torch_dtype": "auto"},
-            )
+            try:
+                from sentence_transformers import CrossEncoder
+                self._local_model = CrossEncoder(
+                    RERANKER_MODEL,
+                    max_length=512,
+                    automodel_args={"torch_dtype": "auto"},
+                )
+            except ImportError:
+                print("WARNING: sentence_transformers is not installed. Local reranking will fail.")
+                self._local_model = None
 
     def rerank(
         self,

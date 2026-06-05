@@ -157,12 +157,14 @@ class LLMClient:
     def _init_client(self):
         if self._provider == "groq":
             if not GROQ_API_KEY:
-                raise ValueError("GROQ_API_KEY is not set in .env")
+                print("WARNING: GROQ_API_KEY is not set in .env. LLM calls will fail.")
+                return None
             from groq import Groq
             return Groq(api_key=GROQ_API_KEY)
         if self._provider == "openai":
             if not OPENAI_API_KEY:
-                raise ValueError("OPENAI_API_KEY is not set in .env")
+                print("WARNING: OPENAI_API_KEY is not set in .env. LLM calls will fail.")
+                return None
             from openai import OpenAI
             return OpenAI(api_key=OPENAI_API_KEY)
         if self._provider == "sagemaker":
@@ -186,12 +188,11 @@ class AzureOpenAIClient:
     """
 
     def __init__(self) -> None:
-        if not AZURE_OPENAI_ENDPOINT:
-            raise ValueError("AZURE_OPENAI_ENDPOINT is not set in .env")
-        if not AZURE_OPENAI_API_KEY:
-            raise ValueError("AZURE_OPENAI_API_KEY is not set in .env")
-        if not AZURE_OPENAI_CHAT_DEPLOYMENT:
-            raise ValueError("AZURE_OPENAI_CHAT_DEPLOYMENT is not set in .env")
+        if not AZURE_OPENAI_ENDPOINT or not AZURE_OPENAI_API_KEY or not AZURE_OPENAI_CHAT_DEPLOYMENT:
+            print("WARNING: Azure OpenAI credentials are not set in .env. LLM calls will fail.")
+            self._client = None
+            self._deployment = ""
+            return
 
         from openai import AzureOpenAI
 

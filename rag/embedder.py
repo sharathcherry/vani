@@ -45,18 +45,21 @@ class Embedder:
     def __init__(self) -> None:
         self._use_sagemaker = USE_SAGEMAKER_EMBED and bool(SAGEMAKER_EMBED_ENDPOINT)
         if not self._use_sagemaker:
-            from sentence_transformers import SentenceTransformer
+            try:
+                from sentence_transformers import SentenceTransformer
+                self._model = SentenceTransformer(EMBED_MODEL, trust_remote_code=True, device=_DEVICE)
+                self._model.max_seq_length = EMBED_MAX_LENGTH
 
-            self._model = SentenceTransformer(EMBED_MODEL, trust_remote_code=True, device=_DEVICE)
-            self._model.max_seq_length = EMBED_MAX_LENGTH
-
-            sentence_dim = self._model.get_sentence_embedding_dimension()
-            if sentence_dim != EMBED_DIM:
-                raise ValueError(
-                    f"Embedder dim mismatch: model={EMBED_MODEL!r} returns {sentence_dim}-d "
-                    f"vectors but config EMBED_DIM={EMBED_DIM}. Azure AI Search index will "
-                    f"reject upserts. Update EMBED_DIM or pick a model with matching dim."
-                )
+                sentence_dim = self._model.get_sentence_embedding_dimension()
+                if sentence_dim != EMBED_DIM:
+                    raise ValueError(
+                        f"Embedder dim mismatch: model={EMBED_MODEL!r} returns {sentence_dim}-d "
+                        f"vectors but config EMBED_DIM={EMBED_DIM}. Azure AI Search index will "
+                        f"reject upserts. Update EMBED_DIM or pick a model with matching dim."
+                    )
+            except ImportError:
+                print("WARNING: sentence_transformers is not installed. Local embeddings will fail.")
+                self._model = None
 
     # ── Public API ────────────────────────────────────────────────────────────
 
