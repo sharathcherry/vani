@@ -1,0 +1,1802 @@
+[
+  {
+    "question": "Who is eligible to apply for the AICTE Research Promotion Scheme?",
+    "reference": "Eligible applicants for the AICTE Research Promotion Scheme are full-time regular faculty members who have research experience and publications. However, principal investigators who already have ongoing RPS projects from AICTE are not eligible to apply.",
+    "scheme_name": "AICTE - Research Promotion Scheme (RPS)",
+    "scheme_id": "10c1ef08-e762-5fd5-b7c1-72e4d11e7b74",
+    "category": "Research",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How much financial support can students and faculty receive for the YUVAK study tour of the Atal Tunnel?",
+    "reference": "The YUVAK scheme provides a grant ranging from ₹170,000 to ₹200,000 for students and faculty members participating in the study tour.",
+    "scheme_name": "AICTE YOUTH UNDERTAKING VISIT FOR ACQUIRING KNOWLEDGE (YUVAK): STUDY TOUR OF ATAL TUNNEL, HIMACHAL PRADESH",
+    "scheme_id": "c9c2982b-ca53-57eb-92e6-efbf73e6f9c8",
+    "category": "Travel",
+    "state": "Himachal Pradesh",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the AICTE-National Initiative for Training of Technical Teachers Scheme and who is it for?",
+    "reference": "The AICTE-National Initiative for Training of Technical Teachers Scheme is a central skill development initiative administered by the Ministry of Education. Its objective is to provide a framework for training Inductee Teachers in AICTE approved institutions, offering training and certification benefits ranging from ₹1,000 to ₹2,000.",
+    "scheme_name": "AICTE-National Initiative for Training of Technical Teachers (for Inductee Teachers) Scheme",
+    "scheme_id": "6fdd0637-6d57-5e5c-a108-6992b189842a",
+    "category": "Skill Development",
+    "state": "Central",
+    "question_type": "overview"
+  },
+  {
+    "question": "Who is eligible to apply for the Aajeevika Micro-Finance Yojana?",
+    "reference": "The Aajeevika Micro-Finance Yojana is available to eligible Scheduled Caste persons who are entrepreneurs and have a maximum income of ₹300,000. Applicants must provide an Aadhaar Card, income certificate, caste certificate, and bank account statement.",
+    "scheme_name": "Aajeevika Micro-Finance Yojana (Livelihood Microfinance Scheme)",
+    "scheme_id": "7a15b02b-d389-50c3-bc62-7259e6134483",
+    "category": "Loan",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "Can you tell me about the Advanced Training in Handicrafts scheme in Puducherry?",
+    "reference": "The Advanced Training in Handicrafts scheme in Puducherry, administered by the Department of Industries and Commerce, aims to provide advanced training to youth and artisans aged 18 to 35 years to master exquisite craft skills. Beneficiaries receive a monthly stipend of ₹2,500.",
+    "scheme_name": "Advanced Training in Handicrafts",
+    "scheme_id": "ebeaa7a2-aad4-5081-94a5-df761c2b572c",
+    "category": "Skill Development",
+    "state": "Puducherry",
+    "question_type": "overview"
+  },
+  {
+    "question": "What documents do I need to apply for the Agnipath Yojana?",
+    "reference": "To apply for the Agnipath Yojana, you need to provide Proof of Identity, Proof of Address, Proof of Highest Educational Qualifications, and Proof of Medical Category.",
+    "scheme_name": "Agnipath Yojana",
+    "scheme_id": "295bafeb-ff6c-51e3-9a48-dc1ae0a3eced",
+    "category": "Employment",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "I'm 45 years old and earn ₹70,000 a year. Can I apply for the Annual Tour for Differently Abled Persons in Puducherry?",
+    "reference": "Yes, you can apply for the Annual Tour to the Differently Abled Persons in Puducherry as you are within the eligible age limit of 18 to 50 years and your income is below the maximum limit of ₹75,000.",
+    "scheme_name": "Annual Tour to the Differently Abled Persons",
+    "scheme_id": "f3267214-ff8b-5e1d-8a8a-b7cee152de36",
+    "category": "Travel",
+    "state": "Puducherry",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How can I apply for the Asangathit Karmakar Gambhir Bimari Chikitsa Sahayata Yojana in Chhattisgarh?",
+    "reference": "You can apply for the Asangathit Karmakar Gambhir Bimari Chikitsa Sahayata Yojana online. You will need to submit your Aadhaar Card, Registration Card, details of your disease, and approximate expenses.",
+    "scheme_name": "Asangathit Karmakar Gambhir Bimari Chikitsa Sahayata Yojana",
+    "scheme_id": "9c393cb8-8db3-585f-979d-0e3221b32b1a",
+    "category": "Healthcare",
+    "state": "Chhattisgarh",
+    "question_type": "application"
+  },
+  {
+    "question": "How can I apply for the Assam Arogya Nidhi Scheme and what documents do I need?",
+    "reference": "To apply for the Assam Arogya Nidhi Scheme, you need to apply offline. The required documents include a photograph of the patient, an Income Certificate, Identity and Address Proof, and Medical documents.",
+    "scheme_name": "Assam Arogya Nidhi Scheme",
+    "scheme_id": "b9d75bcd-e2ac-5287-9b13-367e71ae0f00",
+    "category": "Healthcare",
+    "state": "Assam",
+    "question_type": "application"
+  },
+  {
+    "question": "What kind of financial support can construction workers in Rajasthan receive if they face an accident?",
+    "reference": "Construction workers in Rajasthan can receive financial assistance ranging from ₹5,000 to ₹500,000 in case of general or accidental death or injury. This scheme aims to support construction workers and their families aged 18 to 60 years.",
+    "scheme_name": "Assistance Scheme For Construction Worker In Case Of General Or Accidental Death Or Injury",
+    "scheme_id": "f0475ee3-1cd1-5560-a9d2-82967b20d4b6",
+    "category": "Insurance",
+    "state": "Rajasthan",
+    "question_type": "overview"
+  },
+  {
+    "question": "How can I apply for the Assistance for Energy and Water Conservation scheme in Puducherry, and what documents do I need?",
+    "reference": "To apply for the Assistance for Energy and Water Conservation scheme in Puducherry, you must do so offline. Required documents include the Entrepreneurs Memorandum Part-2 (UAM/ PMT) Registration, a Commencement of Production Certificate, a Chartered Accountant Certificate for payments made, and approval from the Quality Council of India for the certifying agency.",
+    "scheme_name": "Assistance for Energy and Water Conservation",
+    "scheme_id": "d52c3d84-20a2-5369-a6de-21979b97a8b4",
+    "category": "Subsidy",
+    "state": "Puducherry",
+    "question_type": "application"
+  },
+  {
+    "question": "How much financial assistance can I get under the Atal Asra Yojana if I'm from a Scheduled Tribe in Goa?",
+    "reference": "Individuals from Scheduled Tribes can receive financial assistance ranging from ₹150,000 to ₹300,000 for house construction, reconstruction, or repairs under the Atal Asra Yojana.",
+    "scheme_name": "Atal Asra Yojana",
+    "scheme_id": "aa2cd214-f687-5a08-920e-ff492bf07650",
+    "category": "Housing",
+    "state": "Goa",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What benefits does the Atal Awasiya Vidyala Yojana provide for children of construction workers?",
+    "reference": "The Atal Awasiya Vidyala Yojana offers free education, accommodation, and meals to children of construction workers aged 6 to 16 years.",
+    "scheme_name": "Atal Awasiya Vidyala Yojana",
+    "scheme_id": "11d46476-d771-5d20-9ad0-de32290c8e1c",
+    "category": "Education",
+    "state": "Uttar Pradesh",
+    "question_type": "benefit"
+  },
+  {
+    "question": "How can women apply for the Atal Mission For Rejuvenation And Urban Transformation scheme?",
+    "reference": "Women can apply for the Atal Mission For Rejuvenation And Urban Transformation scheme through an offline process. Specific documents required for application may vary, so it's advisable to check with the local Ministry of Housing and Urban Affairs office for detailed requirements.",
+    "scheme_name": "Atal Mission For Rejuvenation And Urban Transformation",
+    "scheme_id": "bb18bfd5-60bf-5817-87aa-91b23d41980d",
+    "category": "Housing",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "What is the maximum income limit for students to qualify for the stipend under the Award Of Stipend To VJNT And SBC Students Studying In ITI scheme?",
+    "reference": "The maximum income limit for students to qualify for the stipend is ₹65,290.",
+    "scheme_name": "Award Of Stipend To VJNT And SBC Students Studying In ITI",
+    "scheme_id": "31334a5d-cdf9-5d84-950c-1ea6be02fdf0",
+    "category": "Scholarship",
+    "state": "Maharashtra",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How can I apply for the scholarship for Scheduled Caste girl students in Puducherry?",
+    "reference": "To apply for the scholarship, you need to do it online and submit documents including your identity proof, a passport size photograph, educational certificates, and a caste certificate.",
+    "scheme_name": "Award of Opportunity Cost to Parents of Scheduled Caste Girl Students",
+    "scheme_id": "86af5fca-5fc7-56c7-9c61-558b562ea966",
+    "category": "Scholarship",
+    "state": "Puducherry",
+    "question_type": "application"
+  },
+  {
+    "question": "How can I apply for the Awasiya Vidyala Yojana for my child?",
+    "reference": "To apply for the Awasiya Vidyala Yojana, you need to submit an application offline. Required documents include a photocopy of the registration certificate and proof of deposit of contribution.",
+    "scheme_name": "Awasiya Vidyala Yojana",
+    "scheme_id": "f28f4f4b-ca95-5b34-979b-38ea888c6abf",
+    "category": "Education",
+    "state": "Uttar Pradesh",
+    "question_type": "application"
+  },
+  {
+    "question": "How can I apply for the BSR Scheme fellowship and what documents do I need?",
+    "reference": "To apply for the BSR Scheme fellowship, you must complete the application online. Required documents include a continuation certificate, yearly progress report, accounts of contingency grants, and an HRA certificate.",
+    "scheme_name": "BSR Scheme",
+    "scheme_id": "42dc9d0b-5c7b-53b8-a563-2e7ba15ce1a2",
+    "category": "Fellowship",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "What benefits does the Bal Ashrams scheme provide for orphans and destitute children in Jammu and Kashmir?",
+    "reference": "The Bal Ashrams scheme offers free schooling, boarding and lodging, free bedding and clothing, recreational material, and medicines for orphans and destitute children.",
+    "scheme_name": "Bal Ashrams",
+    "scheme_id": "c319b33f-bdac-5ec2-91ab-873982a380cc",
+    "category": "Housing",
+    "state": "Jammu and Kashmir",
+    "question_type": "comparison"
+  },
+  {
+    "question": "Who is eligible to apply for the Baristha Nagarika Tirtha Yatra Yojana in Odisha?",
+    "reference": "The scheme is designed for senior citizens aged between 60 and 75 years, with a maximum annual income of ₹100,000. Applicants must provide necessary documents including a passport-size photograph, Identity Card (Aadhaar card), proof of age, and residence proof.",
+    "scheme_name": "Baristha Nagarika Tirtha Yatra Yojana",
+    "scheme_id": "190a37c9-e4f8-5203-83e8-d079690b0101",
+    "category": "Travel",
+    "state": "Odisha",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How much stipend can I expect to receive under the Basic Agriculture Training Centre Scheme in Meghalaya?",
+    "reference": "Under the Basic Agriculture Training Centre Scheme, beneficiaries can receive a stipend ranging from ₹500 to ₹10,000 on a monthly basis.",
+    "scheme_name": "Basic Agriculture Training Centre Scheme",
+    "scheme_id": "ab888cb0-fea1-51db-9740-60e4bb3ec56b",
+    "category": "Skill Development",
+    "state": "Meghalaya",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How can I apply for the Bed & Breakfast/Homestay Scheme in Punjab, and what documents do I need?",
+    "reference": "To apply for the Bed & Breakfast/Homestay Scheme in Punjab, you need to submit an online application. The required documents include a checklist of facilities, a signed declaration, identity proof, and proof of ownership of your property.",
+    "scheme_name": "Bed & Breakfast/Homestay Scheme",
+    "scheme_id": "f8cff1c2-bc56-5c22-9767-8278c408f449",
+    "category": "Travel",
+    "state": "Punjab",
+    "question_type": "application"
+  },
+  {
+    "question": "What is the maximum income limit to qualify for the Bina Mulya Samajik Suraksha Yojana in West Bengal?",
+    "reference": "The maximum income limit to qualify for the Bina Mulya Samajik Suraksha Yojana is ₹65,000.",
+    "scheme_name": "Bina Mulya Samajik Suraksha Yojana",
+    "scheme_id": "29a1c1b1-434d-56dd-9e1c-22b31d715ac4",
+    "category": "Social Security",
+    "state": "West Bengal",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How can I apply for the BioCARe Programme and what documents do I need?",
+    "reference": "To apply for the BioCARe Programme, you need to submit your application online. Required documents include your Aadhaar Number, Proof of Identity, Proof of Address, and a Brief About the Proposal.",
+    "scheme_name": "Biotechnology Career Advancement and Re-orientation (BioCARe) Programme",
+    "scheme_id": "ee80edc2-66e8-5d42-a743-31d24adf636e",
+    "category": "Skill Development",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "What documents do I need to apply for the Biotechnology Ignition Grant Scheme?",
+    "reference": "To apply for the Biotechnology Ignition Grant Scheme, you need to submit a Letter of commitment from Scientific Advisors/Mentors, a Letter of intent from key members of the technical team, a Letter of interest/intent from the incubator, and evidence of access to the unique facilities needed to execute your project.",
+    "scheme_name": "Biotechnology Ignition Grant Scheme",
+    "scheme_id": "6c236629-3118-5f15-b0bf-b60dce2d1de3",
+    "category": "Grant",
+    "state": "All India",
+    "question_type": "application"
+  },
+  {
+    "question": "Who can apply for the Biponi Scheme in Assam?",
+    "reference": "The Biponi Scheme is targeted at small traders, farmers, artisans, and entrepreneurs aged between 18 to 50 years.",
+    "scheme_name": "Biponi Scheme",
+    "scheme_id": "df1f01fe-48b4-5723-9277-047a9e75bd28",
+    "category": "Subsidy",
+    "state": "Assam",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What is the Border Areas Development Programme and who does it help?",
+    "reference": "The Border Areas Development Programme aims to meet the special developmental needs and well-being of people living in remote and inaccessible areas near the International Boundary. It is administered by the Ministry of Home Affairs and targets residents of border areas in states like Arunachal Pradesh, Assam, and Jammu & Kashmir.",
+    "scheme_name": "Border Areas Development Programme",
+    "scheme_id": "f2538818-a7ef-58e7-917a-e2b574f878dc",
+    "category": "Infrastructure Development",
+    "state": "Arunachal Pradesh, Assam, Bihar, Gujarat, Himachal Pradesh, Jammu & Kashmir, Ladakh, Manipur, Meghalaya, Mizoram, Nagaland, Punjab, Rajasthan, Sikkim, Tripura, Uttar Pradesh, Uttarakhand, West Bengal",
+    "question_type": "overview"
+  },
+  {
+    "question": "Is there a fee for visually impaired individuals to travel on DTC buses in Delhi?",
+    "reference": "No, visually impaired individuals can travel for free on DTC buses in Delhi, as the travel concession provides a 100% subsidy.",
+    "scheme_name": "Bus Traveling Facility For Visually Impaired/Bus Concession",
+    "scheme_id": "c51675a7-0e7a-5549-80e7-24f2b41ffc46",
+    "category": "Travel",
+    "state": "Delhi",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How much financial assistance can displaced families from PoK and Chhamb receive under the Prime Minister's Development Package?",
+    "reference": "Displaced families from PoK and Chhamb can receive a one-time financial assistance of ₹550,000 under the Prime Minister's Development Package.",
+    "scheme_name": "Central Assistance For One Time Settlement Of Displaced Families From PoK And Chhamb Under Prime Minister's Development Package",
+    "scheme_id": "db2c5d67-736c-5b53-8840-f773bac2bc8a",
+    "category": "Rehabilitation",
+    "state": "Jammu & Kashmir",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the amount of rehabilitation assistance provided to bonded labourers under the Central Sector Scheme for Rehabilitation of Bonded Labourers?",
+    "reference": "The rehabilitation assistance provided to bonded labourers ranges from ₹100,000 to ₹300,000.",
+    "scheme_name": "Central Sector Scheme for Rehabilitation of Bonded Labourer",
+    "scheme_id": "f988765a-7339-5526-b151-3f86b3865762",
+    "category": "Rehabilitation",
+    "state": "Central",
+    "question_type": "comparison"
+  },
+  {
+    "question": "Can you tell me about the Central Vigilance Commission Internship Scheme and who can apply for it?",
+    "reference": "The Central Vigilance Commission Internship Scheme is administered by the Central Vigilance Commission and aims to engage young academic talent with the Commission’s work for mutual benefit. It is open to students, who can receive a monthly stipend of ₹10,000 during their internship.",
+    "scheme_name": "Central Vigilance Commission (CVC) Internship Scheme",
+    "scheme_id": "a1ade74e-56d7-5a71-9499-e1db36954292",
+    "category": "Internship",
+    "state": "Central",
+    "question_type": "overview"
+  },
+  {
+    "question": "What is the maximum income limit to qualify for the Chief Minister Housing Assistance Programme in Meghalaya?",
+    "reference": "The maximum income limit to qualify for the Chief Minister Housing Assistance Programme is ₹100,000.",
+    "scheme_name": "Chief Minister Housing Assistance Programme",
+    "scheme_id": "3ff178fd-3a4a-53c8-bb07-e26182beb9dc",
+    "category": "Housing",
+    "state": "Meghalaya",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How much financial assistance can I receive under the Chief Minister's COVID-19 Affected Livelihood Support Scheme?",
+    "reference": "Eligible beneficiaries can receive a direct cash transfer ranging from ₹2,500 to ₹5,000, provided in two installments.",
+    "scheme_name": "Chief Minister's COVID-19 Affected Livelihood Support Scheme",
+    "scheme_id": "e962a917-0271-54fe-9293-37ae162c274e",
+    "category": "Financial Assistance",
+    "state": "Manipur",
+    "question_type": "benefit"
+  },
+  {
+    "question": "How can I apply for the Chief Ministergi Shotharabasingi Tengbang scheme for travel concessions for persons with disabilities?",
+    "reference": "To apply for the Chief Ministergi Shotharabasingi Tengbang scheme, you need to do so offline by submitting a Disability Certificate, two passport-sized photographs, and an identity proof (Aadhaar Number, Aadhaar Enrollment Number, or Voter ID) to the Social Welfare Department of the Government of Manipur.",
+    "scheme_name": "Chief Ministergi Shotharabasingi Tengbang",
+    "scheme_id": "22d6e0cd-d675-52e2-b26c-50dff17bfab8",
+    "category": "Travel",
+    "state": "Manipur",
+    "question_type": "application"
+  },
+  {
+    "question": "I'm interested in starting a coir unit. Am I eligible for the Coir Udyami Yojana if I'm from an SC/ST background?",
+    "reference": "Yes, you are eligible for the Coir Udyami Yojana if you are an entrepreneur from an SC/ST background. The scheme provides a credit linked subsidy of 40% up to ₹400,000 for setting up coir units.",
+    "scheme_name": "Coir Udyami Yojana",
+    "scheme_id": "cc228366-f1b9-5ce8-9712-ba348ffa3ff2",
+    "category": "Subsidy",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What documents do I need to apply for the Collaborative Research Scheme (CRS) grant?",
+    "reference": "To apply for the Collaborative Research Scheme (CRS) grant, you need to submit the Institute's Mandate form, a Certificate of collaboration, the Bio-data of all Principal Investigators (PIs) and Co-Principal Investigators (CO-PIs), and a list of equipment.",
+    "scheme_name": "Collaborative Research Scheme (CRS)",
+    "scheme_id": "5ea9b10c-1ac7-55b3-8ae9-52ec3cc8d919",
+    "category": "Research Grant",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "What is the percentage of concession provided for railway travel to artists in Tamil Nadu?",
+    "reference": "The concession in railway travel for artists in Tamil Nadu is 75%.",
+    "scheme_name": "Concession in Railway Travel",
+    "scheme_id": "f9bc790c-225a-5df0-aaff-ff1152b850e9",
+    "category": "Travel",
+    "state": "Tamil Nadu",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What documents do I need to apply for the Credit Based Schemes for SC Term Loan?",
+    "reference": "To apply for the Credit Based Schemes for SC Term Loan, you need to provide your Aadhaar Card, Income certificate, Caste certificate, and a Bank account statement.",
+    "scheme_name": "Credit Based Schemes For SC - Term Loan (TL)",
+    "scheme_id": "6b91ba28-87e4-5257-a32f-9720ea5799f2",
+    "category": "Loan",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "What is the maximum loan amount I can get under the Credit Enhancement Guarantee Scheme for Scheduled Castes?",
+    "reference": "The maximum loan amount available under the Credit Enhancement Guarantee Scheme for Scheduled Castes is ₹500,000,000.",
+    "scheme_name": "Credit Enhancement Guarantee Scheme For The Scheduled Castes",
+    "scheme_id": "685c0364-6b80-5ffc-85c0-3c8ca07b34e3",
+    "category": "Loan",
+    "state": "All States/UTs",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the monthly fellowship amount provided under the DBT-RA Programme?",
+    "reference": "The DBT-RA Programme provides a monthly fellowship amount of ₹55,000 to eligible researchers and scientists.",
+    "scheme_name": "DBT-Research Associateship (DBT-RA) Programme",
+    "scheme_id": "e96348b5-132d-5488-876b-def4026142c2",
+    "category": "Fellowship",
+    "state": "Central",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the Death Benefit Scheme in Arunachal Pradesh and who is it for?",
+    "reference": "The Death Benefit Scheme, administered by the Department of Labour and Employment in Arunachal Pradesh, aims to mitigate economic loss caused by the death of a breadwinner. It provides financial assistance ranging from ₹50,000 to ₹100,000 to the families of construction workers.",
+    "scheme_name": "Death Benefit Scheme (APB&OCWWB)",
+    "scheme_id": "2395f916-67f7-523f-b1a4-30c598e69937",
+    "category": "Insurance",
+    "state": "Arunachal Pradesh",
+    "question_type": "overview"
+  },
+  {
+    "question": "Who can apply for the Development of Playfield scheme in Assam?",
+    "reference": "The Development of Playfield scheme in Assam targets students, youth, and senior citizens. There are no specific age or income limits mentioned, making it accessible to a wide range of beneficiaries.",
+    "scheme_name": "Development of Playfield",
+    "scheme_id": "44a589cb-d938-5898-8e77-d96bffa55d20",
+    "category": "Infrastructure Development",
+    "state": "Assam",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How much financial support can a disabled woman receive under the Disabled Person Pension Scheme in Punjab?",
+    "reference": "Under the Disabled Person Pension Scheme in Punjab, eligible disabled women can receive a monthly pension of ₹1,500.",
+    "scheme_name": "Disabled Person Pension Scheme",
+    "scheme_id": "eb090948-948e-53bb-a96f-f1496cee6589",
+    "category": "Pension",
+    "state": "Punjab",
+    "question_type": "benefit"
+  },
+  {
+    "question": "Who can apply for the District Innovation and Challenge Fund in Arunachal Pradesh?",
+    "reference": "The District Innovation and Challenge Fund is targeted at Deputy Commissioners and the community in Arunachal Pradesh. It does not support projects of a routine nature, festivals, workshops, or religious-focused projects.",
+    "scheme_name": "District Innovation and Challenge Fund",
+    "scheme_id": "28fe6baf-bbaf-50fe-a785-de023dc2b2df",
+    "category": "Innovation",
+    "state": "Arunachal Pradesh",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How much financial assistance can young researchers receive under the Dr. D.S. Kothari Post Doctoral Fellowships?",
+    "reference": "Young researchers can receive a financial assistance of ₹1,000,000 under the Dr. D.S. Kothari Post Doctoral Fellowships, which is paid monthly.",
+    "scheme_name": "Dr. D.S. Kothari Post Doctoral Fellowships In Sciences",
+    "scheme_id": "12faf790-06ac-5653-9849-fde376de8025",
+    "category": "Fellowship",
+    "state": "Central",
+    "question_type": "benefit"
+  },
+  {
+    "question": "Who can apply for the Dr. D.S. Kothari Research Grant?",
+    "reference": "The Dr. D.S. Kothari Research Grant is available for regularly appointed faculty members of universities, institutes, or colleges, specifically targeting Assistant Professors.",
+    "scheme_name": "Dr. D.S. Kothari Research Grant For Newly Recruited Faculty Members",
+    "scheme_id": "fae61fa2-b363-5cdd-89f1-1aa28b37686d",
+    "category": "Research Grant",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How much financial support can I receive under the Dr. P. G. Solanki Scheme for Stipend to Scheduled Caste Lawyers?",
+    "reference": "Under the Dr. P. G. Solanki Scheme, eligible law graduates can receive a monthly stipend ranging from ₹6,000 to ₹12,000.",
+    "scheme_name": "Dr. P. G. Solanki Scheme for Stipend to Scheduled Caste Lawyers",
+    "scheme_id": "7d2a5284-2821-582e-84fc-ee837ba42daa",
+    "category": "Stipend",
+    "state": "Gujarat",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What is the E-YUVA Scheme and who can apply for it?",
+    "reference": "The E-YUVA Scheme, administered by the Biotechnology Industry Research Assistance Council (BIRAC), aims to promote applied research and entrepreneurial innovation among young students and researchers. Eligible beneficiaries include students and researchers, who can receive a fellowship grant ranging from ₹300,000 to ₹500,000.",
+    "scheme_name": "E-YUVA Scheme: BIRAC's Innovation Fellows",
+    "scheme_id": "bd3225f4-715a-570b-9501-2d428479d4ba",
+    "category": "Fellowship",
+    "state": "Central",
+    "question_type": "overview"
+  },
+  {
+    "question": "What support does the Aavin Parlour scheme provide for differently abled persons in Tamil Nadu?",
+    "reference": "The Aavin Parlour scheme aims to create self-employment opportunities for persons with disabilities in Tamil Nadu. There is no specified financial benefit amount or payment frequency, as the focus is on establishing employment avenues rather than direct financial assistance.",
+    "scheme_name": "Establishing Aavin Parlour for Differently Abled Persons",
+    "scheme_id": "b7f61ccb-f1c6-5b2c-870c-d73d27c8c455",
+    "category": "Employment",
+    "state": "Tamil Nadu",
+    "question_type": "benefit"
+  },
+  {
+    "question": "How can students apply for the Exposure Visits To The Assam Legislative Assembly scheme and what documents do they need?",
+    "reference": "Students can apply for the Exposure Visits To The Assam Legislative Assembly scheme through an offline process. The required documents include identity cards of the participating students, a list of participating students, and a brief write-up summarizing their experience and feedback.",
+    "scheme_name": "Exposure Visits To The Assam Legislative Assembly",
+    "scheme_id": "83ca24de-4d1a-51de-9fb1-b0a950b8a124",
+    "category": "Education",
+    "state": "Assam",
+    "question_type": "application"
+  },
+  {
+    "question": "Who can apply for the Financial Assistance for Cultural Activities scheme?",
+    "reference": "Eligible applicants for the Financial Assistance for Cultural Activities scheme include voluntary cultural organizations and government-aided cultural organizations that focus on cultural activities. Religious institutions, public libraries, and museums are not eligible for this grant.",
+    "scheme_name": "Financial Assistance for Cultural Activities in Performing Arts for Building Grants Including Studio Theatres",
+    "scheme_id": "232b0657-ce87-5d23-a07b-4df0269b7163",
+    "category": "Grant",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What kind of financial assistance can I get for my child's education if I'm a registered construction worker in Goa?",
+    "reference": "Registered construction workers in Goa can receive financial assistance for their children's education through the Financial Assistance for Education scheme. Although the specific amount is not stated, eligible children must be between 18 to 60 years of age, and applicants need to provide required documents like a Worker Registration Card and educational certificates.",
+    "scheme_name": "Financial Assistance for Education (GBOCWWB)",
+    "scheme_id": "55bb607d-f95d-5987-a6fd-0ded9ae5bb28",
+    "category": "Education",
+    "state": "Goa",
+    "question_type": "benefit"
+  },
+  {
+    "question": "How much financial assistance can I get to set up a pre-primary school in a remote tribal area in Goa?",
+    "reference": "You can receive financial assistance ranging from ₹8,000 to ₹25,000 to set up a pre-primary school in remote tribal areas of Goa.",
+    "scheme_name": "Financial Assistance to Pre-Primary School in Remote Areas",
+    "scheme_id": "a004ce8d-80ca-5d55-9a27-1769ce598da8",
+    "category": "Education",
+    "state": "Goa",
+    "question_type": "comparison"
+  },
+  {
+    "question": "Who can apply for the FSSAI Internship Scheme and what documents do I need?",
+    "reference": "The FSSAI Internship Scheme is open to students who are looking for unique learning opportunities in food regulation. To apply, you need to submit a passport-sized photograph, your resume, a short write-up or presentation for final selection, and a letter from your institution confirming your status as a student.",
+    "scheme_name": "Food Safety & Standards Authority Of India (FSSAI) Internship Scheme",
+    "scheme_id": "d919e682-77f2-57c4-8b00-1e5dede6cd62",
+    "category": "Internship",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How much financial assistance can the family of a deceased construction worker receive under the Funeral Assistance Scheme in Puducherry?",
+    "reference": "The family of a deceased construction worker can receive a one-time financial assistance of ₹7,000 under the Funeral Assistance Scheme.",
+    "scheme_name": "Funeral Assistance Scheme",
+    "scheme_id": "ab7d4caf-2d4e-59e2-b856-392c93a81521",
+    "category": "Welfare",
+    "state": "Puducherry",
+    "question_type": "benefit"
+  },
+  {
+    "question": "How can I apply for the Garima Greh Shelter Homes for Transgender Persons, and what documents do I need?",
+    "reference": "To apply for the Garima Greh Shelter Homes, you need to submit your application offline. The required documents include a transgender certificate and an identity card.",
+    "scheme_name": "Garima Greh Shelter Homes For Transgender Persons",
+    "scheme_id": "bce8ea98-9cd4-5721-bd31-6f5d51072e3f",
+    "category": "Shelter Home",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "Can you tell me about the Gitanjali Housing Scheme in West Bengal and who it helps?",
+    "reference": "The Gitanjali Housing Scheme is administered by the West Bengal Housing Department and aims to provide housing for homeless individuals, economically weaker sections, BPL families, and low-income families in West Bengal. Eligible beneficiaries must have a maximum income of ₹6,000 and can receive between ₹45,000 to ₹70,000 for housing.",
+    "scheme_name": "Gitanjali Housing Scheme",
+    "scheme_id": "9f9f2cd9-e0d5-5592-aa96-32de00541f45",
+    "category": "Housing",
+    "state": "West Bengal",
+    "question_type": "overview"
+  },
+  {
+    "question": "What is the Goa Tribal's Employment Generation Programme and who can benefit from it?",
+    "reference": "The Goa Tribal's Employment Generation Programme Scheme aims to provide financial assistance and incentives to Scheduled Tribe individuals aged 18 to 45 years to start micro and small businesses. Administered by the Department of Tribal Welfare, Government of Goa, it offers a subsidy of 40% on a benefit amount of ₹2,375,000.",
+    "scheme_name": "Goa Tribal's Employment Generation Programme Scheme",
+    "scheme_id": "655c3e5f-ed6b-50d7-95ca-ab0ad81e5359",
+    "category": "Loan",
+    "state": "Goa",
+    "question_type": "overview"
+  },
+  {
+    "question": "Who can apply for the Good Samaritan Scheme and what is the benefit amount?",
+    "reference": "Any member of the general public can apply for the Good Samaritan Scheme, which offers a one-time award of ₹5,000 for helping road accident victims.",
+    "scheme_name": "Good Samaritan Scheme",
+    "scheme_id": "49534a60-1fcb-5f85-8486-4aa1ff54f253",
+    "category": "Award/Incentive",
+    "state": "All India",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What support does the Government Service Home scheme provide for women in need in Tamil Nadu?",
+    "reference": "The Government Service Home scheme in Tamil Nadu offers institutional care for women aged 14 to 45, including widows, destitute women, deserted women, adolescent girls, and differently-abled women. Benefits include accommodation, food, education, and vocational training, with no financial payments specified.",
+    "scheme_name": "Government Service Home",
+    "scheme_id": "5e8dd4d4-378e-5b59-8fe7-00f515005aff",
+    "category": "Housing",
+    "state": "Tamil Nadu",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What kind of support does the Government Special School for the Visually Handicapped and the Hearing Impaired provide for children?",
+    "reference": "The scheme offers free education and living facilities for visually impaired and hearing-impaired children aged 5 and above, aiming to enhance their education and self-confidence.",
+    "scheme_name": "Government Special School for the Visually Handicapped and the Hearing Impaired",
+    "scheme_id": "fbbe8c43-bdba-53d8-98d9-1d9af4fc9183",
+    "category": "Education",
+    "state": "Puducherry",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the Grama Jyothi scheme and who is it meant for in Telangana?",
+    "reference": "The Grama Jyothi scheme, administered by the Panchayati Raj Ministry in Telangana, aims to enhance accountability and transparency in public institutions at the Gram Panchayat level. It targets rural households, village panchayats, women, girl children, Scheduled Castes, Scheduled Tribes, and small and marginal farmers.",
+    "scheme_name": "Grama Jyothi",
+    "scheme_id": "8cbcf6f1-e8e0-56f5-933f-524a342f07a8",
+    "category": "Rural Development",
+    "state": "Telangana",
+    "question_type": "overview"
+  },
+  {
+    "question": "How much grant can educational institutes in Goa receive for setting up an incubator?",
+    "reference": "Educational institutes in Goa can receive a one-time grant of ₹1,000,000 for setting up an incubator within their campuses.",
+    "scheme_name": "Grant for Incubation Centers within Educational Institutes Scheme",
+    "scheme_id": "aef59acc-d65b-5ae9-b977-754cf01bff5c",
+    "category": "Grant",
+    "state": "Goa",
+    "question_type": "comparison"
+  },
+  {
+    "question": "Can you tell me about the Grant for Organizing Conference scheme and who it helps?",
+    "reference": "The Grant for Organizing Conference scheme is administered by the Department of Higher Education (DoHE) and the All India Council for Technical Education (AICTE) at the central level. It aims to promote high standards in technical education by providing a forum for sharing knowledge and experiences. Beneficiaries include institutions, academicians, working professionals, researchers, and faculty members, with a grant amount of ₹400,000 available.",
+    "scheme_name": "Grant for Organizing Conference",
+    "scheme_id": "f607a0a2-5b3e-5841-a8b0-028b3972a8f6",
+    "category": "Grant",
+    "state": "Central",
+    "question_type": "overview"
+  },
+  {
+    "question": "What are the eligibility criteria for the marriage incentive scheme for differently-abled individuals in Puducherry?",
+    "reference": "To be eligible for the Grant of Incentive for Marriage Between Differently Abled Persons in Puducherry, applicants must be persons with disabilities aged 18 and above, and their maximum income should not exceed ₹75,000. The benefit amount is ₹200,000.",
+    "scheme_name": "Grant of Incentive for Marriage Between Differently Abled Person",
+    "scheme_id": "81a96a0f-f2cf-5f4a-bab3-408b9fa71c31",
+    "category": "Financial Assistance",
+    "state": "Puducherry",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How much stipend can differently abled trainees receive under the scheme in Puducherry?",
+    "reference": "Differently abled trainees can receive a monthly stipend of ₹1,000 under the Grant of Stipend to the Differently Abled Trainees of the Vocational Training Institutes scheme in Puducherry.",
+    "scheme_name": "Grant of Stipend to the Differently Abled Trainees of the Vocational Training Institutes",
+    "scheme_id": "04c372b7-abbe-5549-b7a5-06a653de9f27",
+    "category": "Stipend",
+    "state": "Puducherry",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What documents do I need to apply for the Green Business Scheme loan?",
+    "reference": "To apply for the Green Business Scheme loan, you need to provide an Aadhaar Card, Driving License, Bank Details, and a Caste Certificate.",
+    "scheme_name": "Green Business Scheme",
+    "scheme_id": "6d8b5543-25b5-5809-866b-c2a133f3d8d5",
+    "category": "Loan",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "Who can benefit from the HRIDAY scheme and do I need to apply for it?",
+    "reference": "The HRIDAY scheme targets residents, tourists, businesses, and local authorities in heritage cities. There is no application process required to benefit from the infrastructure development initiatives under this scheme.",
+    "scheme_name": "HRIDAY: Heritage City Development & Augmentation Yojana",
+    "scheme_id": "f224c881-4452-5809-a3f1-c0f733508dd9",
+    "category": "Infrastructure",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What percentage of green cover does the Haritha Haram scheme aim to achieve in Telangana?",
+    "reference": "The Haritha Haram scheme aims to increase the green cover in Telangana from 24% to 33%.",
+    "scheme_name": "Haritha Haram",
+    "scheme_id": "3a77758b-52ec-5e25-9ab0-4043c3b7cb13",
+    "category": "Environment",
+    "state": "Telangana",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How much financial assistance can a Scheduled Caste farmer in Gujarat receive for purchasing harvesting tools under the HRT-4 scheme?",
+    "reference": "Under the HRT-4 scheme, a Scheduled Caste farmer in Gujarat can receive a financial assistance of ₹100,000, which includes a subsidy of 50%.",
+    "scheme_name": "Harvesting Tools Assistance for Scheduled Castes (HRT-4)",
+    "scheme_id": "6a5aef22-3f71-5a56-8143-3f500e0c9725",
+    "category": "Subsidy",
+    "state": "Gujarat",
+    "question_type": "benefit"
+  },
+  {
+    "question": "Who can apply for the Haryana Provision of Sports Equipment Scheme?",
+    "reference": "The Haryana Provision of Sports Equipment Scheme targets Gram Panchayats, Municipal bodies, and youth. There are no specific age limits or income criteria mentioned for eligibility.",
+    "scheme_name": "Haryana Provision of Sports Equipment Scheme",
+    "scheme_id": "d53db549-569b-5651-85e0-71a06cc9a825",
+    "category": "Sports",
+    "state": "Haryana",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How much financial assistance can registered construction workers in Assam receive for their annual health check-up?",
+    "reference": "Registered construction workers in Assam can receive ₹5,000 as financial assistance for their annual health check-up.",
+    "scheme_name": "Health Check-up",
+    "scheme_id": "f16a4f59-5d61-519d-adfe-1684b087f52a",
+    "category": "Healthcare",
+    "state": "Assam",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What is the High Risk - High Reward Research scheme and who administers it?",
+    "reference": "The High Risk - High Reward Research scheme is a research grant administered by the Department of Science and Technology at the central level. Its objective is to support conceptually new and risky proposals that have the potential for a paradigm-shifting influence on science and technology.",
+    "scheme_name": "High Risk - High Reward Research",
+    "scheme_id": "20ee2650-6984-522b-8c78-aef15b1e53a6",
+    "category": "Research Grant",
+    "state": "Central",
+    "question_type": "overview"
+  },
+  {
+    "question": "How much financial assistance can a person with disabilities receive under the HEPSN scheme?",
+    "reference": "Under the Higher Education for Persons with Special Needs (HEPSN) scheme, eligible persons with disabilities can receive financial assistance of ₹500,000.",
+    "scheme_name": "Higher Education for Persons with Special Needs (HEPSN)",
+    "scheme_id": "b3a64eab-83e6-598e-96e0-55baa38ff269",
+    "category": "Education",
+    "state": "Central",
+    "question_type": "comparison"
+  },
+  {
+    "question": "Who is eligible to apply for the Home for the Aged scheme in Puducherry?",
+    "reference": "The Home for the Aged scheme is designed for senior citizens aged 60 years and above, offering them stay at subsidiary rates along with food, routine health check-ups, and entertainment.",
+    "scheme_name": "Home for the Aged",
+    "scheme_id": "7d732e06-23b5-53f8-ad6b-30369f0d139f",
+    "category": "Housing",
+    "state": "Puducherry",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What documents do I need to apply for the Housing Assistance Scheme in Uttarakhand?",
+    "reference": "To apply for the Housing Assistance Scheme, you need to provide two passport size photographs, proof of age, a certificate indicating you have worked as a construction worker for at least 90 days in the previous year, and an affidavit of a construction worker attested by a notary.",
+    "scheme_name": "Housing Assistance Scheme",
+    "scheme_id": "4c52c6ea-ae77-5209-bb0b-46ffdf421ae4",
+    "category": "Loan",
+    "state": "Uttarakhand",
+    "question_type": "application"
+  },
+  {
+    "question": "Who is eligible to apply for the IASRI Scholarship?",
+    "reference": "The IASRI Scholarship is available for students aged 19 years and above, specifically targeting SC/ST candidates. The scholarship provides a benefit of ₹7,500 per month.",
+    "scheme_name": "IASRI Scholarship For M.Sc And Ph.D",
+    "scheme_id": "06ba4263-a24b-5bb6-9b97-7054efe69dc9",
+    "category": "Scholarship",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What is the ICAR Senior Research Fellowship and who can apply for it?",
+    "reference": "The ICAR Senior Research Fellowship is a central scheme administered by the Ministry of Agriculture and Farmers Welfare aimed at encouraging talented students to pursue higher agricultural education. There is no age limit, but applicants must be under 30 years and belong to SC/ST or OBC categories.",
+    "scheme_name": "ICAR Senior Research Fellowship For Post-Graduate Studies In Agricultural Sciences",
+    "scheme_id": "356a768b-4d05-562f-8158-fe714e869ef0",
+    "category": "Fellowship",
+    "state": "Central",
+    "question_type": "overview"
+  },
+  {
+    "question": "What financial assistance is available for ex-servicemen who suffer severe injuries in accidents in Puducherry?",
+    "reference": "The Immediate Assistance for Severe Injury in Road/Fire Accident scheme provides financial assistance of ₹25,000 to registered Ex-servicemen and Widows of Ex-servicemen who have suffered severe injuries in such accidents. The scheme is administered by the Department of Sainik Welfare in Puducherry.",
+    "scheme_name": "Immediate Assistance for Severe Injury in Road/Fire Accident",
+    "scheme_id": "4b46ffa9-6431-59a8-becc-5c3ebeab59c0",
+    "category": "Welfare",
+    "state": "Puducherry",
+    "question_type": "overview"
+  },
+  {
+    "question": "What kind of financial assistance can overseas Indian women receive through the Indian Community Welfare Fund?",
+    "reference": "The Indian Community Welfare Fund provides financial assistance to overseas Indian women in distress situations, but the specific amount of assistance is not detailed in the scheme information.",
+    "scheme_name": "Indian Community Welfare Fund",
+    "scheme_id": "86d4a3fe-7a16-5d0b-831d-ba8bda31584e",
+    "category": "Welfare",
+    "state": "Central",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How can I apply for the Indira Gandhi Shehri Credit Card Yojana in Rajasthan?",
+    "reference": "To apply for the Indira Gandhi Shehri Credit Card Yojana, you need to be between 18 to 40 years old, have a maximum income of ₹15,000, and belong to eligible occupations like street vendor or informal sector worker. You can apply online by submitting a passport size photo, Janadhar Card, Aadhar card, and documents related to your current residence in Rajasthan.",
+    "scheme_name": "Indira Gandhi Shehri Credit Card Yojana",
+    "scheme_id": "ef370d3a-fdd0-5ac2-abe1-6e3749d646a9",
+    "category": "Loan",
+    "state": "Rajasthan",
+    "question_type": "overview"
+  },
+  {
+    "question": "Who can apply for the Industrial Skill Development Allowance in Himachal Pradesh?",
+    "reference": "Eligible applicants for the Industrial Skill Development Allowance are unemployed youth aged between 18 and 36 years who are residents of Himachal Pradesh. Individuals above 36 years or those with higher educational qualifications are not eligible.",
+    "scheme_name": "Industrial Skill Development Allowance",
+    "scheme_id": "1e7c232a-8844-55fd-8b16-6630e4b2ed0c",
+    "category": "Skill Development",
+    "state": "Himachal Pradesh",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "Can you tell me about the Industry Linked Biotechnology Research Scheme in Kerala and who can apply for it?",
+    "reference": "The Industry Linked Biotechnology Research Scheme, administered by the Kerala State Council for Science, Technology and Environment (KSCSTE), aims to facilitate Academia-Industry interaction through collaborative projects. It is targeted at scientists, technologists, and researchers from R&D centers and academic institutions, with a grant amount of ₹4,000,000 available for eligible applicants.",
+    "scheme_name": "Industry Linked Biotechnology Research Scheme",
+    "scheme_id": "f09518c3-3cd5-504a-a23b-ca5145e43ac9",
+    "category": "Grant",
+    "state": "Kerala",
+    "question_type": "overview"
+  },
+  {
+    "question": "Who can apply for the Internship Policy of the ICCR, and are there any age restrictions?",
+    "reference": "The Internship Policy of the ICCR is open to students with no specific age restrictions, but eligibility is limited to individuals who are not older than 25 years. Additionally, individuals who previously opted out of the internship program are not eligible to apply.",
+    "scheme_name": "Internship Policy Of Indian Council For Cultural Relations (ICCR)",
+    "scheme_id": "dc0f3f1e-a507-56bd-a57b-3bd49f118f07",
+    "category": "Internship",
+    "state": "Multiple",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What is the age limit for students applying to the Internship Programme of the Wildlife Crime Control Bureau?",
+    "reference": "There is no specific age limit for students applying to the Internship Programme, but applicants must be under 30 years old.",
+    "scheme_name": "Internship Programme Of The Wildlife Crime Control Bureau",
+    "scheme_id": "29017cc4-fc66-545c-ad16-ada5d2a55d5f",
+    "category": "Skill Development",
+    "state": "Central",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How can students apply for the Internship Scheme by UIDAI and what documents do they need?",
+    "reference": "Students can apply for the Internship Scheme by UIDAI both online and offline. They need to provide a No Objection Certificate (NOC) from their Head of the Department or Principal, along with a recommendation letter from their PhD supervisor.",
+    "scheme_name": "Internship Scheme By The Unique Identification Authority Of India (UIDAI)",
+    "scheme_id": "3014dc53-0a86-5276-a05e-aee34fa96840",
+    "category": "Internship",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "Can graduate students apply for the Internship Scheme of the Department of Economic Affairs?",
+    "reference": "No, graduate students are not eligible to apply for the Internship Scheme of the Department of Economic Affairs.",
+    "scheme_name": "Internship Scheme Of The Department Of Economic Affairs",
+    "scheme_id": "3d20585f-a7ff-507f-b6ff-42cfd9c060be",
+    "category": "Internship",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What is the monthly honorarium amount for interns under the Internship Scheme of the Ministry of Woman and Child Development?",
+    "reference": "The monthly honorarium for interns under the Internship Scheme is ₹5,000.",
+    "scheme_name": "Internship Scheme Of The Ministry Of Woman And Child Development",
+    "scheme_id": "d26b8e89-6456-549d-af8a-b25d0e1afc4a",
+    "category": "Internship",
+    "state": "Central",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How much financial assistance can I get from the Jagananna Thodu scheme if I am a street vendor in Andhra Pradesh?",
+    "reference": "Eligible street vendors can receive financial assistance of ₹10,000 under the Jagananna Thodu scheme.",
+    "scheme_name": "Jagananna Thodu",
+    "scheme_id": "e0a54975-a7a6-54ee-b246-b634f81d4a74",
+    "category": "Loan",
+    "state": "Andhra Pradesh",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How much financial support does the Janani Shishu Suraksha Karyakram provide for delivery services?",
+    "reference": "The Janani Shishu Suraksha Karyakram offers 100% subsidy for free and cashless delivery services, including caesarean sections, to pregnant women accessing government health facilities.",
+    "scheme_name": "Janani Shishu Suraksha Karyakram",
+    "scheme_id": "a1cc21ad-762e-57a2-9ec1-1b7d6e58b509",
+    "category": "Healthcare",
+    "state": "Central",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What is the Janta Juth Accidental Insurance Scheme in Gujarat and who does it benefit?",
+    "reference": "The Janta Juth Accidental Insurance Scheme is designed to provide economic assistance of ₹200,000 to farmers in Gujarat who suffer death or disability due to an accident. It primarily targets farmers and persons with disabilities aged between 5 and 70 years.",
+    "scheme_name": "Janta Juth Accidental Insurance Scheme",
+    "scheme_id": "9660f71e-275e-539b-bc47-f6f0e1435591",
+    "category": "Insurance",
+    "state": "Gujarat",
+    "question_type": "overview"
+  },
+  {
+    "question": "Who can benefit from the Jharkhand Nirman Karmakar Mrityu/Durghatana Sahayata Yojana?",
+    "reference": "The scheme is designed for registered construction workers in Jharkhand aged between 18 and 60 years. They can receive financial assistance ranging from ₹100,000 to ₹500,000 in case of death or disability.",
+    "scheme_name": "Jharkhand Nirman Karmakar Mrityu/Durghatana Sahayata Yojana",
+    "scheme_id": "915eae5a-5ff7-5999-bae0-8391c1d68e38",
+    "category": "Insurance",
+    "state": "Jharkhand",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What is the Journalist Welfare Scheme and who can benefit from it?",
+    "reference": "The Journalist Welfare Scheme, administered by the Ministry of Information and Broadcasting at the central level, aims to provide one-time ex-gratia relief of ₹500,000 to journalists and their families facing extreme hardship.",
+    "scheme_name": "Journalist Welfare Scheme",
+    "scheme_id": "7d0b3897-4bbe-5489-952f-5eb492a016ec",
+    "category": "Welfare",
+    "state": "Central",
+    "question_type": "overview"
+  },
+  {
+    "question": "What is the cash prize amount for the Kerala State Young Scientist Awards?",
+    "reference": "The cash prize for the Kerala State Young Scientist Awards ranges from ₹50,000 to ₹500,000.",
+    "scheme_name": "Kerala State Young Scientist Awards",
+    "scheme_id": "2e24c3ff-3ba9-536b-802d-8dfe19f1dd48",
+    "category": "Award",
+    "state": "Kerala",
+    "question_type": "comparison"
+  },
+  {
+    "question": "I'm a 45-year-old khadi artisan. Am I eligible for the Khadi Karigar Janashree Bima Yojana?",
+    "reference": "Yes, as a khadi artisan aged between 18 and 59 years, you are eligible for the Khadi Karigar Janashree Bima Yojana. The scheme provides insurance cover and benefits ranging from ₹20,000 to ₹50,000.",
+    "scheme_name": "Khadi Karigar Janashree Bima Yojana",
+    "scheme_id": "6f811419-5da6-5429-9d14-446492ade96b",
+    "category": "Insurance",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What documents do I need to apply for the Kisan Vikas Patra Scheme?",
+    "reference": "To apply for the Kisan Vikas Patra Scheme, you will need to provide a passport size photo, your Aadhaar card, a copy of your PAN card, and proof of age.",
+    "scheme_name": "Kisan Vikas Patra Scheme",
+    "scheme_id": "8d28f7ac-58d5-576d-8db6-49ec1939192f",
+    "category": "Savings",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "Who can apply for the Krishak Parisharam Bhraman Karyakram Yojana and what do I need to provide?",
+    "reference": "The Krishak Parisharam Bhraman Karyakram Yojana is available to farmers in Madhya Pradesh. To apply, beneficiaries need to submit a photo, Aadhaar Card, Bank Passbook, and Birth Certificate.",
+    "scheme_name": "Krishak Parisharam Bhraman Karyakram Yojana",
+    "scheme_id": "c4b113db-316e-51f6-bf12-1bd73be1b0de",
+    "category": "Travel",
+    "state": "Madhya Pradesh",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What financial support does the Kushal Yuva Program offer to unemployed youth in Bihar?",
+    "reference": "The Kushal Yuva Program provides training to unemployed youth in Bihar with a benefit amount of ₹7,740. It is aimed at individuals aged 15 to 28 who have completed at least Class 10th.",
+    "scheme_name": "Kushal Yuva Program",
+    "scheme_id": "0de3e512-3358-578d-9599-2e472e082bf8",
+    "category": "Skill Development",
+    "state": "Bihar",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the maximum loan amount I can get under the LIDCOM Education Loan Scheme if I belong to the Charmakar community?",
+    "reference": "Under the LIDCOM Education Loan Scheme, eligible beneficiaries can receive a maximum loan amount of ₹2,000,000.",
+    "scheme_name": "LIDCOM Education Loan Scheme",
+    "scheme_id": "be4300cf-89d9-5c02-8f26-b64cf1e16e88",
+    "category": "Loan",
+    "state": "Maharashtra",
+    "question_type": "benefit"
+  },
+  {
+    "question": "Can you tell me about the LIDCOM Gattai Stall Scheme in Maharashtra and who it helps?",
+    "reference": "The LIDCOM Gattai Stall Scheme, administered by the Leather Industries Development Corporation in Maharashtra, aims to uplift the lifestyle of economically weak Charmakars, including roadside cobblers, who are below the poverty line. The scheme targets beneficiaries aged 18 to 50 years, with a maximum income of ₹100,000, providing a subsidy of ₹16,367.",
+    "scheme_name": "LIDCOM Gattai Stall Scheme",
+    "scheme_id": "a7e7eeee-a763-5dbb-8d91-76cdaa4379cc",
+    "category": "Subsidy",
+    "state": "Maharashtra",
+    "question_type": "overview"
+  },
+  {
+    "question": "How can I apply for the Rani Laxmi Bai Award and what documents do I need?",
+    "reference": "To apply for the Rani Laxmi Bai Award, you need to submit your application offline. Required documents include a passport-size photograph, proof of age, identity proof, and a PAN card.",
+    "scheme_name": "Laxman Award/Rani Laxmi Bai Award Scheme",
+    "scheme_id": "31285a72-f1f7-5f75-8ffe-9612cdf4ba43",
+    "category": "Award",
+    "state": "Uttar Pradesh",
+    "question_type": "application"
+  },
+  {
+    "question": "How can I get legal aid under the Legal Aid To Scheduled Castes And Vimukat Jatis Scheme in Haryana?",
+    "reference": "The Legal Aid To Scheduled Castes And Vimukat Jatis Scheme, administered by the Department of Welfare of Schedule Castes and Backward Classes in Haryana, provides financial assistance of ₹22,000 to members of Scheduled Castes and Vimukat Jatis for legal support in court cases. You can apply through the Antyodaya-SARAL Portal with required documents including identity proof and a Haryana Resident Certificate.",
+    "scheme_name": "Legal Aid To Scheduled Castes And Vimukat Jatis Scheme",
+    "scheme_id": "7889a835-7ce3-50e6-850f-1ad904cfbe45",
+    "category": "Legal Aid",
+    "state": "Haryana",
+    "question_type": "overview"
+  },
+  {
+    "question": "What is the monthly stipend amount for the Long Term Fellowship under the Human Resource Development Programme for Health Research?",
+    "reference": "The monthly stipend for the Long Term Fellowship ranges from ₹20,000 to ₹40,000.",
+    "scheme_name": "Long Term Fellowship under the Human Resource Development Programme for Health Research",
+    "scheme_id": "7e1c82fd-5fa5-59df-b73e-44ea782ec845",
+    "category": "Fellowship",
+    "state": "Central",
+    "question_type": "benefit"
+  },
+  {
+    "question": "How much subsidy can I get if I apply for the MSME Sustainable (ZED) Certification Scheme?",
+    "reference": "Eligible MSMEs can receive a subsidy of ₹50,000, which is 80% of the eligible costs for the certification.",
+    "scheme_name": "MSME Sustainable (ZED) Certification Scheme",
+    "scheme_id": "c1622c5b-fff4-55f9-ab1a-501ca4225eec",
+    "category": "Certification",
+    "state": "Central",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the cash prize amount for winning the Maharishi Valmiki Sampoorn Swachata Puraskar?",
+    "reference": "The cash prize for winning the Maharishi Valmiki Sampoorn Swachata Puraskar ranges from ₹100,000 to ₹1,000,000.",
+    "scheme_name": "Maharishi Valmiki Sampoorn Swachata Puraskar",
+    "scheme_id": "414d35ed-f501-5243-97d1-ace323f1cd0d",
+    "category": "Award/Competition",
+    "state": "Himachal Pradesh",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What documents do I need to apply for the Mahatma Gandhi National Rural Employment Guarantee Act?",
+    "reference": "To apply for the Mahatma Gandhi National Rural Employment Guarantee Act, you need to provide a photograph of the applicant, names, ages, and genders of all NREGA Job Card applicants, proof of identity, and details regarding whether the applicant is a beneficiary of SC/ST, Indira Awaas Yojana (IAY), or Land Reform (LR).",
+    "scheme_name": "Mahatma Gandhi National Rural Employment Guarantee Act",
+    "scheme_id": "fdc6a8ae-81a4-5a44-8fe9-ae22c806a3d0",
+    "category": "Employment Guarantee",
+    "state": "All States and UTs except districts with 100% urban population",
+    "question_type": "application"
+  },
+  {
+    "question": "Who can apply for the Mahila Samman Savings Certificate and are there any age limits?",
+    "reference": "The Mahila Samman Savings Certificate is available for women and girl children. There are no specific age limits mentioned, but applicants must provide proof of age along with other documents.",
+    "scheme_name": "Mahila Samman Savings Certificate",
+    "scheme_id": "009caeb5-cc9e-5838-bcff-88b8be386e99",
+    "category": "Savings",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How does the Market Research Information Network help farmers with price realization?",
+    "reference": "The Market Research Information Network aims to provide farmers with timely market information to enhance price realization and improve market access. While there are no specific financial benefits or payment frequencies associated with this scheme, it significantly aids farmers in making informed decisions regarding their produce.",
+    "scheme_name": "Market Research Information Network",
+    "scheme_id": "f46971fd-1bb8-5520-883e-659e95687687",
+    "category": "Information/Market Intelligence",
+    "state": "All States/UTs",
+    "question_type": "benefit"
+  },
+  {
+    "question": "How much financial assistance can a construction worker receive if hospitalized for more than five days under the Medical Assistance scheme in Arunachal Pradesh?",
+    "reference": "A construction worker hospitalized for five or more days can receive financial assistance ranging from ₹2,000 to ₹25,000 under the Medical Assistance scheme.",
+    "scheme_name": "Medical Assistance (APB&OCWWB)",
+    "scheme_id": "398f9b27-3f97-534b-b748-47e88ca6182f",
+    "category": "Healthcare",
+    "state": "Arunachal Pradesh",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What is the amount awarded to students with disabilities who rank in the top three in Maharashtra's Merit Awards scheme?",
+    "reference": "Students with disabilities who secure 1st, 2nd, or 3rd rank among disabled students in the Secondary School Certificate (S.S.C.) and Higher Secondary Certificate (H.S.C.) are awarded ₹1,000.",
+    "scheme_name": "Merit Awards",
+    "scheme_id": "0877cbbd-8e2d-5cc6-8c92-66ad76703815",
+    "category": "Scholarship",
+    "state": "Maharashtra",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How can I apply for the Mukhya Mantri Shahri Ajeevika Guarantee Yojna and what documents do I need?",
+    "reference": "You can apply for the Mukhya Mantri Shahri Ajeevika Guarantee Yojna through an online portal or by submitting documents offline. The required documents include an Aadhaar Card, a passport size photograph, a bank passbook, and a caste certificate.",
+    "scheme_name": "Mukhya Mantri Shahri Ajeevika Guarantee Yojna",
+    "scheme_id": "219ebe22-dca8-5f28-887e-b6a669003e8c",
+    "category": "Employment Guarantee",
+    "state": "Himachal Pradesh",
+    "question_type": "application"
+  },
+  {
+    "question": "Who can apply for the Mukhyamantri Aawasiye Bhu-Adhikaar Yojana in Madhya Pradesh?",
+    "reference": "Eligible applicants for the Mukhyamantri Aawasiye Bhu-Adhikaar Yojana are BPL families with a maximum income of ₹100,000. They must not be in government service or be income tax payers, and cannot own more than 5 acres of land.",
+    "scheme_name": "Mukhyamantri Aawasiye Bhu-Adhikaar Yojana",
+    "scheme_id": "5f2b0a4b-474e-595b-84b4-ca83f3e8fbb3",
+    "category": "Housing",
+    "state": "Madhya Pradesh",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How can I apply for the Mukhyamantri Avivahita Pension Yojana, and what documents do I need?",
+    "reference": "You can apply for the Mukhyamantri Avivahita Pension Yojana both offline and online. Required documents include your Aadhar card, Samagra card, address proof, and bank account statement.",
+    "scheme_name": "Mukhyamantri Avivahita Pension Yojana",
+    "scheme_id": "925d46de-3fb7-5465-be79-26be943c5c3e",
+    "category": "Pension",
+    "state": "Madhya Pradesh",
+    "question_type": "application"
+  },
+  {
+    "question": "Who is eligible to apply for the Mukhyamantri Jan Kalyan (Sambal 2.0) Yojana in Madhya Pradesh?",
+    "reference": "The Mukhyamantri Jan Kalyan (Sambal 2.0) Yojana is aimed at unorganized workers in Madhya Pradesh. However, government employees, income taxpayers, and individuals with more than 1 hectare of agricultural land are not eligible to apply.",
+    "scheme_name": "Mukhyamantri Jan Kalyan (Sambal 2.0) Yojana",
+    "scheme_id": "3e30fd3f-2a1e-54da-a191-093f3dca958c",
+    "category": "Insurance",
+    "state": "Madhya Pradesh",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What is the Mukhyamantri Rajya Bridhhabasta Pension Yojana and how does it support senior citizens in Jharkhand?",
+    "reference": "The Mukhyamantri Rajya Bridhhabasta Pension Yojana is a pension scheme administered by the Department of Women, Child Development & Social Security in Jharkhand. It aims to provide financial support of ₹1,000 per month to senior citizens aged 60 and above who do not have a stable source of income.",
+    "scheme_name": "Mukhyamantri Rajya Bridhhabasta Pension Yojana",
+    "scheme_id": "69cfb03e-7e12-576e-b61e-08fba1643e43",
+    "category": "Pension",
+    "state": "Jharkhand",
+    "question_type": "overview"
+  },
+  {
+    "question": "What is the monthly pension amount provided under the Mukhyamantri Samajik Sahayata Prakalpa for Persons with Disabilities in Tripura?",
+    "reference": "The Mukhyamantri Samajik Sahayata Prakalpa provides a monthly pension of ₹2,000 to Persons with Disabilities in Tripura.",
+    "scheme_name": "Mukhyamantri Samajik Sahayata Prakalpa - Persons with Disabilities",
+    "scheme_id": "09dc48b3-2b68-5aa1-bc50-ccefbd879e8e",
+    "category": "Pension",
+    "state": "Tripura",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How much financial support does the Mukhyamantri Sports Development Scheme provide to unemployed young professional sportspersons in Tripura?",
+    "reference": "The Mukhyamantri Sports Development Scheme offers a remuneration of ₹20,000 per month to unemployed young professional sportspersons aged between 18 and 40 years.",
+    "scheme_name": "Mukhyamantri Sports Development Scheme - Unemployed Young Professional Sportsperson",
+    "scheme_id": "51792a58-78ac-5f0e-9221-f6147da3f981",
+    "category": "Employment",
+    "state": "Tripura",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the monthly remuneration for retired persons under the Mukhyamantri Sports Development Scheme in Tripura?",
+    "reference": "The Mukhyamantri Sports Development Scheme provides a monthly remuneration of ₹30,000 to eligible retired persons, including senior physical instructors and retired sportspersons.",
+    "scheme_name": "Mukhyamantri Sports Development Scheme-Retired Person",
+    "scheme_id": "94b4aece-73a5-5523-bf60-49a13ab76da1",
+    "category": "Employment",
+    "state": "Tripura",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the financial benefit amount I can receive under the Mukhyamantri Work From Home-Job Work Yojana in Rajasthan?",
+    "reference": "Under the Mukhyamantri Work From Home-Job Work Yojana, eligible women can receive a financial benefit ranging from ₹3,000 to ₹5,000.",
+    "scheme_name": "Mukhyamantri Work From Home-Job Work Yojana",
+    "scheme_id": "9cb30b4d-e40c-5ff7-a512-fd8af9970ac0",
+    "category": "Employment",
+    "state": "Rajasthan",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What documents do I need to apply for the Mukyamantri Samuhik Vivah Evam Anudan Yojna in Rajasthan?",
+    "reference": "To apply for the Mukyamantri Samuhik Vivah Evam Anudan Yojna, you need to submit a photo of the bride and groom, an Aadhaar card or Voter ID card, a birth certificate, and a bank passbook of the newly married girl.",
+    "scheme_name": "Mukyamantri Samuhik Vivah Evam Anudan Yojna",
+    "scheme_id": "6be0d21c-4f2e-51bb-b1e3-85947e9b8029",
+    "category": "Subsidy",
+    "state": "Rajasthan",
+    "question_type": "application"
+  },
+  {
+    "question": "How can I apply for the NPC Students Internship Program and what documents do I need?",
+    "reference": "To apply for the NPC Students Internship Program, you need to submit your application offline. The required documents include a Curriculum Vitae (CV) and a No Objection Certificate from your Supervisor, Head of Department, or Principal.",
+    "scheme_name": "NPC Students Internship Program",
+    "scheme_id": "78666c4d-f0ee-5e33-8ac0-8563e640255d",
+    "category": "Skill Development",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "What kind of support does the Nari Niketans scheme provide for women in Jammu and Kashmir?",
+    "reference": "The Nari Niketans scheme offers shelter and rehabilitation to deserted or destitute women and widows who have no means of livelihood.",
+    "scheme_name": "Nari Niketans",
+    "scheme_id": "759e2857-8dcd-500b-9de6-26b24b1423ea",
+    "category": "Shelter",
+    "state": "Jammu and Kashmir",
+    "question_type": "benefit"
+  },
+  {
+    "question": "Who can apply for the National Award For Senior Citizens and what is the age requirement?",
+    "reference": "The National Award For Senior Citizens is open to all senior citizens aged 60 years and above. There are no upper age limits, and the award aims to honor those who have rendered distinguished service for the cause of elderly persons.",
+    "scheme_name": "National Award For Senior Citizens (Vayoshreshtha Samman): Sports And Adventure",
+    "scheme_id": "a7bb4585-1a15-5d14-8bd3-ad81a63ca0b2",
+    "category": "Award",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What is the National Awards For Empowerment Of Persons With Disabilities and who administers it?",
+    "reference": "The National Awards For Empowerment Of Persons With Disabilities is a central award scheme administered by the Ministry of Social Justice and Empowerment. Its objective is to recognize the skills and contributions of persons with disabilities and the efforts of individuals and institutions engaged in their empowerment.",
+    "scheme_name": "National Awards For Empowerment Of Persons With Disabilities",
+    "scheme_id": "01aa9902-432d-54b9-8793-5894d7ea37d2",
+    "category": "Award",
+    "state": "Central",
+    "question_type": "overview"
+  },
+  {
+    "question": "What is the National Awards for Outstanding Services in the Field of Prevention of Alcoholism and Substance Abuse?",
+    "reference": "The National Awards for Outstanding Services in the Field of Prevention of Alcoholism and Substance (Drug) Abuse is a central scheme administered by the Ministry of Social Justice and Empowerment. Its objective is to recognize and encourage excellence in preventing alcoholism and drug abuse and rehabilitating its victims. The benefit amount for the award is ₹400,000, and it is granted once every two years.",
+    "scheme_name": "National Awards For Outstanding Services In The Field Of Prevention Of Alcoholism And Substance (Drug) Abuse",
+    "scheme_id": "4bb6f999-8ed7-5099-900e-98aede2a52e3",
+    "category": "Award",
+    "state": "Central",
+    "question_type": "overview"
+  },
+  {
+    "question": "What documents do I need to apply for the NCCS Internship Scheme?",
+    "reference": "To apply for the NCCS Internship Scheme, you need to submit a passport-sized photograph, proof of identity, proof of address, and proof of the latest educational qualification such as a passing certificate, degree, or marksheet.",
+    "scheme_name": "National Centre For Communications Security (NCCS) Internship Scheme",
+    "scheme_id": "1384af07-680e-587a-aabe-325abb964a1f",
+    "category": "Internship",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "Who can apply for the National Renewable Energy Internship Scheme?",
+    "reference": "The National Renewable Energy Internship Scheme is open to students and research scholars in the field of renewable energy. There are no specific age or income limits mentioned for eligibility.",
+    "scheme_name": "National Renewable Energy Internship Scheme",
+    "scheme_id": "90d8339a-a55b-5c8d-8f92-4dc989ca31aa",
+    "category": "Internship",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What is the minimum amount I can invest in the National Savings Certificates scheme?",
+    "reference": "The minimum investment amount for the National Savings Certificates (VIII-Issue) Scheme is ₹1,000.",
+    "scheme_name": "National Savings Certificates (VIII-Issue) Scheme",
+    "scheme_id": "1ca88199-969b-5e0b-a544-ab5199b07481",
+    "category": "Savings",
+    "state": "All India",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the maximum financial assistance amount available under the National Technology Awards?",
+    "reference": "The maximum financial assistance amount available under the National Technology Awards is ₹2,500,000.",
+    "scheme_name": "National Technology Awards",
+    "scheme_id": "95cc35c7-c1a5-5cd6-baa1-c9ee309433d3",
+    "category": "Award",
+    "state": "Central",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What financial support does the National Youth Corps scheme provide to unemployed youth?",
+    "reference": "The National Youth Corps scheme offers an honorarium of ₹5,000 per month to unemployed youth aged 18 to 29 years.",
+    "scheme_name": "National Youth Corps",
+    "scheme_id": "98a8a927-5174-57b8-95b8-fc5b8fb64445",
+    "category": "Volunteership",
+    "state": "Central",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What financial assistance does the Natural Death Assistance scheme provide for construction workers in Delhi?",
+    "reference": "The Natural Death Assistance scheme in Delhi provides financial assistance of ₹100,000 to the nominees or dependents of construction workers in case of natural death. It is administered by the Labour Department and targets construction workers aged 18 to 60 years.",
+    "scheme_name": "Natural Death Assistance for the Construction Workers",
+    "scheme_id": "d50c0a60-e46d-5a9f-81b0-5ef2efc63c45",
+    "category": "Insurance",
+    "state": "Delhi",
+    "question_type": "overview"
+  },
+  {
+    "question": "Who is eligible for the Nirman Kamgar Mrtyu Va Divyangta Sahayta Yojana in Uttar Pradesh?",
+    "reference": "The scheme is targeted at construction workers in Uttar Pradesh. It provides financial assistance to their families in case of death or disability due to accidents or illnesses.",
+    "scheme_name": "Nirman Kamgar Mrtyu Va Divyangta Sahayta Yojana",
+    "scheme_id": "3869d65e-a83e-5cf2-befd-2c9fa8be70e9",
+    "category": "Insurance",
+    "state": "Uttar Pradesh",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How can I get financial help for medical treatment under the Odisha State Treatment Fund?",
+    "reference": "The Odisha State Treatment Fund provides financial assistance of up to ₹300,000 for medical treatment to individuals from BPL families, including persons with disabilities and those from Scheduled Castes and Scheduled Tribes. To apply, you need to submit documents such as your Aadhar Card, Voter Card, BPL card, and Antyodaya Anna Yojana ration card offline.",
+    "scheme_name": "Odisha State Treatment Fund",
+    "scheme_id": "0d575c97-32b3-5033-8429-f53a8f8782de",
+    "category": "Healthcare",
+    "state": "Odisha",
+    "question_type": "overview"
+  },
+  {
+    "question": "What financial assistance can the family of a deceased journalist receive under the Odisha Working Journalist Welfare Scheme?",
+    "reference": "The family of a deceased journalist can receive an ex-gratia financial assistance ranging from ₹200,000 to ₹400,000 under the Odisha Working Journalist Welfare Scheme.",
+    "scheme_name": "Odisha Working Journalist Welfare Scheme",
+    "scheme_id": "79b11219-dd17-5273-a836-b70c4fe4f0f9",
+    "category": "Insurance",
+    "state": "Odisha",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How much financial assistance can senior citizens in Delhi receive under the Old Age Assistance scheme?",
+    "reference": "Eligible senior citizens in Delhi can receive a monthly pension ranging from ₹2,000 to ₹2,500 under the Old Age Assistance scheme.",
+    "scheme_name": "Old Age Assistance",
+    "scheme_id": "2d87025b-331f-586e-a196-22bf7ffe0fe5",
+    "category": "Pension",
+    "state": "Delhi",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What benefits does the Sahara scheme provide for senior citizens?",
+    "reference": "The Sahara scheme offers housing, clothes, food, and medical facilities for senior citizens from Below Poverty Line (BPL) families with an annual income of up to ₹60,000. There is no specified payment frequency for these benefits.",
+    "scheme_name": "Old Age Home (Sahara)",
+    "scheme_id": "b3235185-e82f-5e96-86e3-424a3434c53d",
+    "category": "Housing",
+    "state": "Central",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What documents do I need to apply for the One Nation One Ration Card scheme?",
+    "reference": "To apply for the One Nation One Ration Card scheme, you need to provide a Ration Card and an Aadhar Card.",
+    "scheme_name": "One Nation One Ration Card",
+    "scheme_id": "2dbf44d2-1d2b-5e50-ade4-407d39dcbfe0",
+    "category": "Food Security",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "What documents do I need to apply for the One Time Cash Incentive for education as an unemployed Ex-serviceman in Puducherry?",
+    "reference": "To apply for the One Time Cash Incentive, you need to provide your Identity Card, Discharge Certificate, Proof of Successful Completion of the Course, and Fee Receipt.",
+    "scheme_name": "One Time Cash Incentive towards acquiring BEd, BPEd, DTEd, PGDCA",
+    "scheme_id": "3657876c-5054-5a39-b7c1-bbc18d360a31",
+    "category": "Education",
+    "state": "Puducherry",
+    "question_type": "application"
+  },
+  {
+    "question": "What documents do I need to apply for the Outstanding Exporter award in Puducherry?",
+    "reference": "To apply for the Outstanding Exporter award, you need to provide Proof of Profitable Exports, Proof of being a Direct Manufacture Exporter, and the Entrepreneurs Memorandum Part-2 (UAM/ PMT) Registration or Commencement of Production Certificate.",
+    "scheme_name": "Outstanding Exporter",
+    "scheme_id": "669f5a43-711d-5573-97ee-1085c21d17b3",
+    "category": "Award",
+    "state": "Puducherry",
+    "question_type": "application"
+  },
+  {
+    "question": "How much financial support can I receive from the Overseas Visiting Doctoral Fellowship?",
+    "reference": "The Overseas Visiting Doctoral Fellowship offers a financial benefit of ₹200,000, which is paid monthly to eligible PhD students.",
+    "scheme_name": "Overseas Visiting Doctoral Fellowship",
+    "scheme_id": "b33b686a-dff0-57d4-b054-c9fa2a50b448",
+    "category": "Fellowship",
+    "state": "Central",
+    "question_type": "benefit"
+  },
+  {
+    "question": "How can I apply for the Pandit Deendayal Upadhyay National Welfare Fund for Sportspersons, and what documents do I need?",
+    "reference": "To apply for the Pandit Deendayal Upadhyay National Welfare Fund for Sportspersons, you need to apply offline. Required documents include a passport size photo, your signature, proof of age or date of birth, and proof of achievements or participation in national or international level sports events.",
+    "scheme_name": "Pandit Deendayal Upadhyay National Welfare Fund For Sportspersons",
+    "scheme_id": "87fdbccb-d077-5458-8ba5-b0e21f3dc950",
+    "category": "Welfare",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "Who can benefit from the PRASAD scheme for religious tourism in India?",
+    "reference": "The PRASAD scheme targets local communities, tourists, and stakeholders involved in the tourism sector. There are no specific age, income, or caste/gender criteria mentioned for eligibility.",
+    "scheme_name": "Pilgrimage Rejuvenation and Spiritual Augmentation Drive (PRASAD)",
+    "scheme_id": "f8be1b27-3bae-5494-8108-7a710a303fa4",
+    "category": "Travel",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What is the monthly financial benefit I can receive from the Post Doctoral Fellowship for SC/ST candidates?",
+    "reference": "The Post Doctoral Fellowship provides a monthly financial benefit ranging from ₹38,800 to ₹46,500.",
+    "scheme_name": "Post Doctoral Fellowship to Scheduled Caste/Scheduled Tribe Candidates",
+    "scheme_id": "32ae758b-e666-5b0e-9eb0-8353ae7def6a",
+    "category": "Fellowship",
+    "state": "Central",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the Post Matric Scholarship for SC Students in Telangana and who can apply for it?",
+    "reference": "The Post Matric Scholarship for SC Students in Telangana aims to provide financial assistance to Scheduled Caste students pursuing Post-Matriculation or Post-Secondary courses. It is administered by the Scheduled Caste Development Department of the Government of Telangana, targeting SC students whose family income does not exceed ₹200,000.",
+    "scheme_name": "Post Matric Scholarship for SC Students (Telangana)",
+    "scheme_id": "telangana-post-matric-sc",
+    "category": "Scholarship",
+    "state": "Telangana",
+    "question_type": "overview"
+  },
+  {
+    "question": "Can senior citizens invest in the Post Office Monthly Income Scheme, and how much do they receive monthly?",
+    "reference": "Yes, senior citizens are eligible to invest in the Post Office Monthly Income Scheme. They receive a monthly income of ₹550.",
+    "scheme_name": "Post Office Monthly Income Scheme",
+    "scheme_id": "50ddaf41-7e13-51d7-b932-ad46cda64604",
+    "category": "Investment",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How does the Pradhan Mantri Gram Sadak Yojana ensure all-weather access for rural areas?",
+    "reference": "The Pradhan Mantri Gram Sadak Yojana aims to provide all-weather access to eligible unconnected habitations, thereby enhancing infrastructure development for the rural population.",
+    "scheme_name": "Pradhan Mantri Gram Sadak Yojana",
+    "scheme_id": "fc071c08-7d4a-5d3f-9482-44eb3900dfa5",
+    "category": "Infrastructure",
+    "state": "Central",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What is the maximum income limit to qualify for the Pradhan Mantri Jan Dhan Yojana?",
+    "reference": "The maximum income limit to qualify for the Pradhan Mantri Jan Dhan Yojana is ₹100,000.",
+    "scheme_name": "Pradhan Mantri Jan Dhan Yojana",
+    "scheme_id": "62812370-38a2-5ecf-9b87-03f3a8d81c8c",
+    "category": "Banking",
+    "state": "All India",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What is the age limit for children eligible for the Pradhan Mantri Rashtriya Bal Puraskar?",
+    "reference": "The age limit for children eligible for the Pradhan Mantri Rashtriya Bal Puraskar is between 5 to 18 years.",
+    "scheme_name": "Pradhan Mantri Rashtriya Bal Puraskar",
+    "scheme_id": "3ce6ad85-5c32-529a-89a8-c50d62dd914e",
+    "category": "Award/Scholarship",
+    "state": "Central",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What financial assistance can disabled students in Uttarakhand receive through the Pre-Matric Disability Scholarship?",
+    "reference": "Disabled students in Uttarakhand can receive an annual financial assistance of ₹600 to ₹960 through the Pre-Matric Disability Scholarship.",
+    "scheme_name": "Pre-Matric Disability Scholarship",
+    "scheme_id": "bf7c3059-d982-5c7c-9dd1-5d905c7c80ae",
+    "category": "Scholarship",
+    "state": "Uttarakhand",
+    "question_type": "benefit"
+  },
+  {
+    "question": "How much financial assistance can my child receive under the Pre-Matric Scholarship scheme if I am a manual scavenger?",
+    "reference": "Children of manual scavengers can receive a monthly financial assistance ranging from ₹1,100 to ₹11,000 under the Pre-Matric Scholarship scheme.",
+    "scheme_name": "Pre-Matric Scholarships to the Children of Those Engaged in Occupations Involving Cleaning and Prone to Health Hazards",
+    "scheme_id": "3e45be9f-4d1e-5cd1-b2fb-b547f81bd77e",
+    "category": "Scholarship",
+    "state": "Central",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the subsidy percentage provided under the Production Linked Incentive Scheme for the automobile industry?",
+    "reference": "The subsidy percentage provided under the Production Linked Incentive Scheme for the automobile industry is 13.0%.",
+    "scheme_name": "Production Linked Incentive Scheme For Automobile And Auto Component Industry",
+    "scheme_id": "63992a6a-34a7-5862-9197-0159cc42b5db",
+    "category": "Incentive",
+    "state": "Central",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How much financial assistance can families of soldiers killed in the Kargil War receive from the Rajasthan Chief Minister's Relief Fund?",
+    "reference": "Families of soldiers killed in the Kargil War can receive financial assistance ranging from ₹20,000 to ₹100,000.",
+    "scheme_name": "Rajasthan Chief Minister's Relief Fund - Kargil Package",
+    "scheme_id": "6352a4f0-f705-5a03-9959-550e45876828",
+    "category": "Subsidy",
+    "state": "Rajasthan",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What is the maximum income limit to qualify for the Rajasthan Chief Minister's Relief Fund for medical help?",
+    "reference": "The maximum income limit to qualify for the Rajasthan Chief Minister's Relief Fund is ₹200,000.",
+    "scheme_name": "Rajasthan Chief Minister's Relief Fund - Medical Help",
+    "scheme_id": "df513f19-6eff-5a3f-8218-072674528fd1",
+    "category": "Healthcare",
+    "state": "Rajasthan",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How much stipend can I expect to receive if I join the Rashtriya Gram Swaraj Abhiyan Internship Program?",
+    "reference": "Participants in the Rashtriya Gram Swaraj Abhiyan Internship Program will receive a monthly stipend of ₹7,000.",
+    "scheme_name": "Rashtriya Gram Swaraj Abhiyan - Internship Program",
+    "scheme_id": "1690161f-c969-5f68-a28d-76310f0028fb",
+    "category": "Internship",
+    "state": "Central",
+    "question_type": "benefit"
+  },
+  {
+    "question": "Who can apply for the Rehabilitation Treatment For The Disabled scheme in Meghalaya?",
+    "reference": "The scheme is aimed at persons with disabilities, with no specific age or income limits mentioned for eligibility. Applicants must provide a disability certificate issued by a registered medical practitioner, proof of residence in Meghalaya, identity proof, and bank account details.",
+    "scheme_name": "Rehabilitation Treatment For The Disabled",
+    "scheme_id": "15eee2ff-7209-5f4d-8793-35e26759f0af",
+    "category": "Healthcare",
+    "state": "Meghalaya",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "Who can apply for the sales tax reimbursement on high-speed diesel oil in Puducherry?",
+    "reference": "To be eligible for the sales tax reimbursement, applicants must be registered mechanized boat operators aged between 23 to 60 years, engaged in fishing or fish trade. Government employees and Old Age Pension recipients are not eligible.",
+    "scheme_name": "Reimbursement/ Spot Exemption of Sales Tax on High-Speed Diesel Oil",
+    "scheme_id": "64032be3-345b-5c52-9cc2-6bbdcb48f242",
+    "category": "Subsidy",
+    "state": "Puducherry",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What kind of financial help can construction workers in Puducherry get during a natural calamity or pandemic?",
+    "reference": "The Relief under Natural Calamity / Pandemic Period scheme provides financial assistance of ₹2,000 to registered construction workers aged between 18 and 60 years in Puducherry. This scheme is administered by the Labour Department.",
+    "scheme_name": "Relief under Natural Calamity / Pandemic Period",
+    "scheme_id": "9c288b36-192a-58a8-9bf5-21e3ad9840f0",
+    "category": "Financial Assistance",
+    "state": "Puducherry",
+    "question_type": "overview"
+  },
+  {
+    "question": "Can I apply for the Research Grant if I'm over 50 years old?",
+    "reference": "There is no age criteria for eligibility, so faculty members over 50 years old can apply for the Research Grant.",
+    "scheme_name": "Research Grant for In-Service Faculty Members",
+    "scheme_id": "cbb126d3-1814-5d67-b910-6d128057e5c6",
+    "category": "Research Grant",
+    "state": "Central",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What is the maximum income limit for families to be eligible for the Revised Education Scheme for Children of Artisans and Weavers in Jammu and Kashmir?",
+    "reference": "The maximum income limit for families to be eligible for the Revised Education Scheme is ₹90,000.",
+    "scheme_name": "Revised Education Scheme For Children Of Artisans/Weavers Of Handicrafts And Handloom Departments",
+    "scheme_id": "ee0507c4-bf44-5bbd-8fe4-d78b9eedaa40",
+    "category": "Scholarship",
+    "state": "Jammu and Kashmir",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What kind of financial support can I expect from the Right To Information Fellowship?",
+    "reference": "The Right To Information Fellowship offers a stipend ranging from ₹50,000 to ₹100,000, paid monthly. This financial support is available for individuals aged 25 to 40 years who are involved in journalism, civil society, research, or RTI training.",
+    "scheme_name": "Right To Information Fellowship",
+    "scheme_id": "90910817-8144-5930-8ac1-66f168fe6b17",
+    "category": "Fellowship",
+    "state": "Central",
+    "question_type": "benefit"
+  },
+  {
+    "question": "Who can apply for the Rs 5 Lakh Insurance Cover for farmers in Telangana?",
+    "reference": "Farmers aged between 18 and 60 years are eligible to apply for the Rs 5 Lakh Insurance Cover in Telangana. There are no specific income limits or caste/gender criteria mentioned.",
+    "scheme_name": "Rs 5 Lakh Insurance Cover To Farmers",
+    "scheme_id": "e0cb0674-a738-5b57-aa96-2b018fd73658",
+    "category": "Insurance",
+    "state": "Telangana",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "Can you tell me about the SERB International Research Experience fellowship and who can apply for it?",
+    "reference": "The SERB International Research Experience is a fellowship administered by the Department of Science and Technology, aimed at building national capacity in frontier areas of Science and Technology by providing international R&D experience. It targets researchers, scientists, and faculty members, with no age limit for applicants under 40 years, and includes benefits ranging from ₹20,000 to ₹75,000.",
+    "scheme_name": "SERB International Research Experience",
+    "scheme_id": "43673aed-4558-5667-8928-8845fef880d6",
+    "category": "Fellowship",
+    "state": "Central",
+    "question_type": "overview"
+  },
+  {
+    "question": "How much funding can I get if I apply for the SERB-Technology Translation Award?",
+    "reference": "If you apply for the SERB-Technology Translation Award, you can receive a grant of ₹1,500,000 on an annual basis.",
+    "scheme_name": "SERB-Technology Translation Award",
+    "scheme_id": "5631637c-1245-514f-b045-97da308e844d",
+    "category": "Research Grant",
+    "state": "Central",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the SWADHAR Greh scheme and who can benefit from it?",
+    "reference": "The SWADHAR Greh scheme, administered by the Ministry of Women and Child Development at the central level, aims to provide shelter, food, clothing, health, and economic and social security to women in difficult circumstances, including victims of domestic violence and trafficked women. It targets women aged 18 years and older.",
+    "scheme_name": "SWADHAR Greh",
+    "scheme_id": "75eff632-5688-5d6a-af4d-487c50af3bf8",
+    "category": "Shelter",
+    "state": "Central",
+    "question_type": "overview"
+  },
+  {
+    "question": "What is the Saansad Adarsh Gram Yojana and who administers it?",
+    "reference": "The Saansad Adarsh Gram Yojana is a central government scheme administered by the Ministry of Rural Development. Its objective is to promote holistic development in selected Gram Panchayats, targeting rural populations, SC/ST communities, BPL families, women, and persons with disabilities.",
+    "scheme_name": "Saansad Adarsh Gram Yojana",
+    "scheme_id": "893cd081-0608-526b-bb63-d62ed818cc3d",
+    "category": "Housing",
+    "state": "Central",
+    "question_type": "overview"
+  },
+  {
+    "question": "How can sanitation workers in Chhattisgarh apply for training under the Safai Karmakaar Kaushal Unnayan Yojana?",
+    "reference": "Sanitation workers in Chhattisgarh can apply for training under the Safai Karmakaar Kaushal Unnayan Yojana online. They need to provide a Residence Certificate and a copy of their ration card as part of the application process.",
+    "scheme_name": "Safai Karmakaar Kaushal Unnayan Yojana",
+    "scheme_id": "2de7ee27-c277-5fdc-9479-9d9b7d084018",
+    "category": "Skill Development",
+    "state": "Chhattisgarh",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the Samajik Mukti scheme in West Bengal, and who can benefit from it?",
+    "reference": "The Samajik Mukti scheme aims to bring the maximum number of unorganized sector workers aged 18 to 60 years under welfare schemes and ensure smooth delivery of benefits. Eligible beneficiaries must have a maximum income of ₹65,000 and need to provide identity proof, income proof, and employment details to apply offline.",
+    "scheme_name": "Samajik Mukti",
+    "scheme_id": "04fc3cbc-ae1d-5820-ab52-bfb67608cdcf",
+    "category": "Social Security",
+    "state": "West Bengal",
+    "question_type": "overview"
+  },
+  {
+    "question": "What documents do I need to apply for the financial assistance for education under the scheme for wards of beedi workers?",
+    "reference": "To apply for the financial assistance, you need to submit a photo, the identity card of the worker, the front page of the bank passbook, and the passing certificate or mark sheet of the previous academic year.",
+    "scheme_name": "Scheme For Award Of Financial Assistance For Education To The Wards Of Beedi/Cine/IOMC/LSDM Workers",
+    "scheme_id": "8423fc1a-3b43-5b51-8e22-29713ed9b102",
+    "category": "Scholarship",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "What documents do I need to apply for financial assistance for the legal heirs of a deceased artist in Tamil Nadu?",
+    "reference": "To apply for financial assistance as a legal heir of a deceased artist in Tamil Nadu, you need to submit photographs of the legal heir, a specimen signature of the incumbent, a legal heir certificate, and proof establishing the relationship between the deceased and the applicant.",
+    "scheme_name": "Scheme for Giving Financial Assistance to the Legal Heirs of the Deceased Artist (Wife/Husband) on the Death of the Indigent Artist Who Was Receiving Financial Assistance",
+    "scheme_id": "64017bd9-6bb2-53be-82b4-dcea9719dc67",
+    "category": "Pension",
+    "state": "Tamil Nadu",
+    "question_type": "application"
+  },
+  {
+    "question": "How can an artist apply for the Kalaichemmal Award in Tamil Nadu?",
+    "reference": "Artists can apply for the Kalaichemmal Award offline by submitting their bio-data to the Art and Culture Department of Tamil Nadu. There is no specific payment frequency for the financial assistance of ₹100,000.",
+    "scheme_name": "Scheme of Conferring Kalaichemmal Awards",
+    "scheme_id": "0479d05e-9481-54c0-8e26-2302f93c1dfc",
+    "category": "Award",
+    "state": "Tamil Nadu",
+    "question_type": "application"
+  },
+  {
+    "question": "What is the financial assistance amount provided by the Kalai Ilamani Award for artists in Tamil Nadu?",
+    "reference": "The Kalai Ilamani Award provides financial assistance of ₹4,000 to eligible artists in Tamil Nadu.",
+    "scheme_name": "Scheme of Giving Awards to Eminent Artists - Kalai Ilamani Award",
+    "scheme_id": "ed7ad821-9459-5274-a41b-3d6b34849315",
+    "category": "Award",
+    "state": "Tamil Nadu",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What is the financial assistance amount provided by the Kalai Sudarmani Award for artists in Tamil Nadu?",
+    "reference": "The Kalai Sudarmani Award offers a one-time financial assistance of ₹10,000 to eligible artists aged between 36 and 50 years.",
+    "scheme_name": "Scheme of Giving Awards to Eminent Artists - Kalai Sudarmani Award",
+    "scheme_id": "66aaf4ed-6040-5b0d-8997-faf564919c58",
+    "category": "Award",
+    "state": "Tamil Nadu",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the Scheme of Pension for Eminent Sports Persons in Punjab?",
+    "reference": "The Scheme of Pension for Eminent Sports Persons is administered by the Department of Sports, Government of Punjab, aiming to provide monthly pensions ranging from ₹600 to ₹1,000 to veteran sportsmen who have excelled at the international level.",
+    "scheme_name": "Scheme of Pension for Eminent Sports Persons",
+    "scheme_id": "44a5e8a0-e2a3-5cbb-8dca-25492a9f69f5",
+    "category": "Pension",
+    "state": "Punjab",
+    "question_type": "overview"
+  },
+  {
+    "question": "Can you tell me about the financial assistance available for organizing cultural events in Goa?",
+    "reference": "The Scheme to Provide Special Financial Assistance for Organizing Cultural Events in Goa offers a grant of up to ₹500,000 to artists, cultural groups, and NGOs to support cultural events, programs, exhibitions, festivals, camps, and workshops. The subsidy provided is 80%, and applications must be submitted manually along with required documents.",
+    "scheme_name": "Scheme to Provide Special Financial Assistance for Organizing Cultural Events",
+    "scheme_id": "97a84e52-e9e2-549b-913e-c7b6d7855dec",
+    "category": "Grant",
+    "state": "Goa",
+    "question_type": "overview"
+  },
+  {
+    "question": "How can I apply for the Senior Citizens Saving Scheme and what documents do I need?",
+    "reference": "You can apply for the Senior Citizens Saving Scheme at a post office or an authorized bank. The required documents include KYC documents, utility bills, a Senior Citizen Card or birth certificate, and two passport-size photographs.",
+    "scheme_name": "Senior Citizens Saving Scheme",
+    "scheme_id": "8155db7e-0914-55bc-ac4e-8efdde2b38fa",
+    "category": "Savings",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "How can I apply for the Shramik Annapurna Yojana and what documents do I need?",
+    "reference": "You can apply for the Shramik Annapurna Yojana through self-registration on the e-Nirman application or website. The only document required for the application is the e-Nirman Card.",
+    "scheme_name": "Shramik Annapurna Yojana",
+    "scheme_id": "ea2f372c-e090-5d55-81ef-d577432cf764",
+    "category": "Subsidy",
+    "state": "Gujarat",
+    "question_type": "application"
+  },
+  {
+    "question": "What is the maximum income limit for families to qualify for the Shravan Kumar Shramik Parivar Tirth Yatra Yojana?",
+    "reference": "The maximum income limit for families to qualify for the Shravan Kumar Shramik Parivar Tirth Yatra Yojana is ₹15,000.",
+    "scheme_name": "Shravan Kumar Shramik Parivar Tirth Yatra Yojana",
+    "scheme_id": "8c74f979-8039-571d-96dc-a01863579c3a",
+    "category": "Travel",
+    "state": "Uttar Pradesh",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What is the Sikkim Unmarried Women Pension Scheme and who can benefit from it?",
+    "reference": "The Sikkim Unmarried Women Pension Scheme provides a monthly pension of ₹2,000 to unmarried women aged 45 to 59 years from Below Poverty Line (BPL) families in Sikkim. Eligible beneficiaries must not have any source of income and cannot be covered by other pension schemes.",
+    "scheme_name": "Sikkim Unmarried Women Pension Scheme",
+    "scheme_id": "de4e768a-0a15-5ee1-be80-db68313a0011",
+    "category": "Pension",
+    "state": "Sikkim",
+    "question_type": "overview"
+  },
+  {
+    "question": "How can I apply for the Silicosis financial assistance scheme in Chhattisgarh?",
+    "reference": "To apply for the Silicosis (Bimari) Se Pidit Shramiko Ke Liye Aarthik Evam Punarvas Sahayata Yojana, visit the office of the Assistant Labor Commissioner or Labor Officer in your district. You will need to provide a Labor registration card, proof of residence, and a medical report confirming Silicosis disease.",
+    "scheme_name": "Silicosis (Bimari) Se Pidit Shramiko Ke Liye Aarthik Evam Punarvas Sahayata Yojana",
+    "scheme_id": "1f75b2a8-58b5-54ef-9f21-c757737f2d40",
+    "category": "Financial Assistance",
+    "state": "Chhattisgarh",
+    "question_type": "application"
+  },
+  {
+    "question": "Who is eligible for the Sishu Sathi scheme in West Bengal?",
+    "reference": "The Sishu Sathi scheme is aimed at providing free cardiac surgery for children aged 0 to 18 years who require heart surgeries.",
+    "scheme_name": "Sishu Sathi",
+    "scheme_id": "70ad6f5b-2d73-5d34-a040-b7ca9e750e2c",
+    "category": "Healthcare",
+    "state": "West Bengal",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "Who can apply for the Snehayanam Scheme in Kerala?",
+    "reference": "The Snehayanam Scheme is available for women who are the mothers of persons with disabilities, specifically targeting those from Below Poverty Line (BPL) families. There are no age restrictions for applicants, but their maximum income should not exceed ₹100,000.",
+    "scheme_name": "Snehayanam Scheme For Mothers Of Persons With Special Needs",
+    "scheme_id": "730a58a1-0c27-57fc-ac75-aa208e9322b6",
+    "category": "Subsidy",
+    "state": "Kerala",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "Who can apply for the Special Education and Vocational Training scheme in Maharashtra?",
+    "reference": "Children with disabilities aged 6 years and above are eligible to apply for the Special Education and Vocational Training scheme in Maharashtra. The scheme provides 100% subsidy for education and training.",
+    "scheme_name": "Special Education and Vocational Training through Government Institutions",
+    "scheme_id": "f115b9aa-ecfd-5cfa-b035-43f6ad24c15a",
+    "category": "Education",
+    "state": "Maharashtra",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "How much grant can colleges receive under the Star College Scheme?",
+    "reference": "Colleges can receive a one-time grant of ₹1,000,000 under the Star College Scheme.",
+    "scheme_name": "Star College Scheme For Strengthening Of Science Education And Training At Undergraduate Level",
+    "scheme_id": "66abdf73-858b-5053-9314-fa5484c2f3de",
+    "category": "Education",
+    "state": "Pan-India",
+    "question_type": "comparison"
+  },
+  {
+    "question": "How much financial assistance can a disabled person receive under the State Disability Pension scheme in Delhi?",
+    "reference": "Under the State Disability Pension scheme in Delhi, disabled persons can receive a monthly financial allowance ranging from ₹1,500 to ₹2,500.",
+    "scheme_name": "State Disability Pension - Delhi",
+    "scheme_id": "46219e07-8678-5420-a88b-526bfe11fea0",
+    "category": "Pension",
+    "state": "Delhi",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What is the stipend scheme for SC students in Industrial Training Institutes in Maharashtra?",
+    "reference": "The Stipends to Trainees in Industrial Training Institute scheme, administered by the Department of Social Justice and Special Assistance in Maharashtra, aims to provide technical training to Scheduled Caste students, offering a monthly stipend of ₹40 to ₹100 for eligible students with a maximum family income of ₹65,290.",
+    "scheme_name": "Stipends to Trainees in Industrial Training Institute",
+    "scheme_id": "340b4e4d-01e2-5958-82e0-da9c3a6c7e00",
+    "category": "Scholarship",
+    "state": "Maharashtra",
+    "question_type": "overview"
+  },
+  {
+    "question": "Who is eligible to apply for the Student Internship Programme in New Delhi?",
+    "reference": "The Student Internship Programme is open to all students under the age of 25 years, with no specific age criteria beyond this limit. However, applicants must not be in a regular job or appointment.",
+    "scheme_name": "Student Internship Programme",
+    "scheme_id": "17bd7151-5f57-531d-a00c-0bc2df92b21c",
+    "category": "Internship",
+    "state": "New Delhi",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What kind of healthcare support does the Surakshit Matritva Aashwasan Yojana provide for pregnant women?",
+    "reference": "The Surakshit Matritva Aashwasan Yojana aims to provide affordable and quality healthcare solutions specifically for pregnant women and newborns, ensuring they receive necessary medical attention during pregnancy and after childbirth.",
+    "scheme_name": "Surakshit Matritva Aashwasan Yojana",
+    "scheme_id": "fd3159b1-0d51-547b-8f41-a5dc98b2f5dc",
+    "category": "Healthcare",
+    "state": "Central",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What is the Swami Vivekananda Assam Youth Empowerment scheme and who can apply for it?",
+    "reference": "The Swami Vivekananda Assam Youth Empowerment scheme aims to generate employment opportunities in rural and urban areas by providing financial assistance in the form of loans up to ₹100,000. It targets youth, entrepreneurs, and self-help groups in Assam, and offers a 20% subsidy on the loan amount.",
+    "scheme_name": "Swami Vivekananda Assam Youth Empowerment",
+    "scheme_id": "87e957ba-3f71-52bf-bff5-bd5af5132039",
+    "category": "Loan",
+    "state": "Assam",
+    "question_type": "overview"
+  },
+  {
+    "question": "What documents do I need to apply for the Tripura Lynching/Mob Violence Victim Compensation Scheme?",
+    "reference": "To apply for the Tripura Lynching/Mob Violence Victim Compensation Scheme, you need to provide identity proof of the applicant, a medical report of the victim, the FIR and related papers, and a copy of the charge sheet or final report from the investigating officer.",
+    "scheme_name": "Tripura Lynching/Mob Violence Victim Compensation Scheme",
+    "scheme_id": "e275c463-1984-5baa-b81a-1d6a5b91185b",
+    "category": "Compensation",
+    "state": "Tripura",
+    "question_type": "application"
+  },
+  {
+    "question": "How much financial assistance can VJNT/SBC students receive for their tuition and examination fees in Maharashtra?",
+    "reference": "VJNT/SBC students in Maharashtra can receive a fee reimbursement of ₹100 to ₹200 to help cover their tuition and examination costs.",
+    "scheme_name": "Tuition Fees And Examination Fees To VJNT/SBC Students Studying In High Schools",
+    "scheme_id": "d2809c46-0354-5d5e-886a-76f4cd1199b6",
+    "category": "Scholarship",
+    "state": "Maharashtra",
+    "question_type": "benefit"
+  },
+  {
+    "question": "How can I apply for the Usha Kiran Yojana if I need help with domestic violence?",
+    "reference": "To apply for the Usha Kiran Yojana, you need to visit the Protection Officer at the Project Officer-Integrated Child Development Project Office, a One Stop Center in your district, or a Police Station. Required documents include your Aadhaar card and a passport-size photograph.",
+    "scheme_name": "Usha Kiran Yojana",
+    "scheme_id": "69ba2e48-4edc-5063-8bb5-7617d3b72049",
+    "category": "Protection",
+    "state": "Madhya Pradesh",
+    "question_type": "application"
+  },
+  {
+    "question": "What is the maximum income limit to qualify for the Mukhyamantri Bal Seva Yojana in Uttar Pradesh?",
+    "reference": "To qualify for the Mukhyamantri Bal Seva Yojana in Uttar Pradesh, the maximum income limit is ₹300,000.",
+    "scheme_name": "Uttar Pradesh Mukhyamantri Bal Seva Yojana",
+    "scheme_id": "b97c00f4-bcf6-5e3e-8756-dea86bccc637",
+    "category": "Social Welfare",
+    "state": "Uttar Pradesh",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What is the monthly pension amount provided under the Uttarakhand Widow Pension Scheme?",
+    "reference": "The Uttarakhand Widow Pension Scheme provides a monthly pension amount of ₹1,500 to eligible widows.",
+    "scheme_name": "Uttarakhand Widow Pension Scheme",
+    "scheme_id": "991abde4-8568-5259-a07b-038d8956fbb8",
+    "category": "Pension",
+    "state": "Uttarakhand",
+    "question_type": "comparison"
+  },
+  {
+    "question": "What documents do I need to apply for the Visiting Advanced Joint Research Faculty Scheme?",
+    "reference": "To apply for the Visiting Advanced Joint Research Faculty Scheme, you need to submit a passport size photograph, the CV of the VAJRA Faculty, technical details of the proposed work, and a certificate from the Lead Indian Collaborator.",
+    "scheme_name": "Visiting Advanced Joint Research Faculty Scheme",
+    "scheme_id": "c1d0959d-62dd-5cb6-bdb0-0e75c08210af",
+    "category": "Research",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "What is the financial support provided under the Women Involvement in Science and Engineering Research (WISER) scheme?",
+    "reference": "The WISER scheme offers financial support in the form of a grant ranging from ₹100,000 to ₹1,200,000, with payments made annually.",
+    "scheme_name": "Women Involvement in Science and Engineering Research (WISER)",
+    "scheme_id": "5bf09db6-9f55-516d-bee9-949df01d25cd",
+    "category": "Research",
+    "state": "Central",
+    "question_type": "benefit"
+  },
+  {
+    "question": "What documents do I need to apply for the Women Scientist Scheme-B?",
+    "reference": "To apply for the Women Scientist Scheme-B, you need to submit a Project Proposal Document, Biodata of the Principal Investigator (PI), Mentor's Biodata, and a Caste Certificate. The application is done online.",
+    "scheme_name": "Women Scientist Scheme-B",
+    "scheme_id": "943ebeba-7183-594d-a1fb-9c1c78ffea9e",
+    "category": "Research Grant",
+    "state": "Central",
+    "question_type": "application"
+  },
+  {
+    "question": "What is the YSR Law Nestham scheme and who can benefit from it?",
+    "reference": "The YSR Law Nestham scheme is administered by the Law Department of Andhra Pradesh, aimed at providing a monthly stipend of ₹5,000 to Junior Advocates and Law Graduates. There is no age limit, but beneficiaries must not have more than three years of practice.",
+    "scheme_name": "YSR Law Nestham",
+    "scheme_id": "339d71d7-fcca-515c-9e61-14c5f062457d",
+    "category": "Stipend",
+    "state": "Andhra Pradesh",
+    "question_type": "overview"
+  },
+  {
+    "question": "Who is eligible to apply for the Young Innovators Program in Jammu and Kashmir?",
+    "reference": "The Young Innovators Program is aimed at empowering youth and entrepreneurs in Jammu and Kashmir, specifically targeting individuals aged between 18 and 35 years.",
+    "scheme_name": "Young Innovators Program",
+    "scheme_id": "63fa7552-35e1-5520-a09c-b816e2ca15af",
+    "category": "Skill Development",
+    "state": "Jammu and Kashmir",
+    "question_type": "eligibility"
+  },
+  {
+    "question": "What is the Youth Hostel Scheme and how can I apply for it?",
+    "reference": "The Youth Hostel Scheme, administered by the Ministry of Youth Affairs & Sports at the central level, aims to promote youth travel by providing low-cost accommodation for students and youth groups. To apply, you need to fill out the YHAI membership application form online, submit a passport size photograph, and provide proof of identity.",
+    "scheme_name": "Youth Hostel Scheme",
+    "scheme_id": "642dc811-aabe-51c5-aece-69372a9abf23",
+    "category": "Travel",
+    "state": "Central",
+    "question_type": "overview"
+  },
+  {
+    "question": "What is the e-National Agriculture Market scheme and who administers it?",
+    "reference": "The e-National Agriculture Market (e-NAM) is a scheme administered by the Ministry of Agriculture and Farmers' Welfare, aimed at integrating agricultural markets across India through a common online platform to facilitate trade in agricultural commodities. It targets farmers as beneficiaries.",
+    "scheme_name": "e-National Agriculture Market (e-NAM)",
+    "scheme_id": "064ec9c5-e592-54bc-8741-870ffba7c2d3",
+    "category": "Market",
+    "state": "Central",
+    "question_type": "overview"
+  }
+]
